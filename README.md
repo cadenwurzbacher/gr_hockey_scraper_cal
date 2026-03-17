@@ -7,7 +7,7 @@ Scrapes Stick & Puck and Open Hockey sessions from 7 Grand Rapids-area ice rinks
 After deploying, add this URL to Google Calendar, Apple Calendar, or any iCal client:
 
 ```
-https://<your-username>.github.io/gr_hockey_scraper_cal/output/gr-hockey.ics
+https://cadenwurzbacher.github.io/gr_hockey_scraper_cal/output/gr-hockey.ics
 ```
 
 ## Local Usage
@@ -50,4 +50,4 @@ The workflow runs daily at 6 AM Eastern and on manual trigger. It commits `outpu
 1. Repo → Settings → Pages
 2. Source: Deploy from a branch
 3. Branch: main, folder: / (root)
-4. Subscribe URL: `https://<username>.github.io/gr_hockey_scraper_cal/output/gr-hockey.ics`
+4. Subscribe URL: `https://cadenwurzbacher.github.io/gr_hockey_scraper_cal/output/gr-hockey.ics`
