@@ -1,0 +1,39 @@
+name: Scrape Hockey Calendars
+
+on:
+  schedule:
+    # 6 AM Eastern daily (UTC-5 or UTC-4)
+    - cron: "0 11 * * *"
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run scraper
+        run: python scrape.py
+
+      - name: Commit and push output
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/gr-hockey.ics output/events.json
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update hockey calendar [skip ci]"
+            git push
+          fi

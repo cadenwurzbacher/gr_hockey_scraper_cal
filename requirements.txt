@@ -1,0 +1,4 @@
+requests>=2.28
+beautifulsoup4>=4.12
+ics>=0.7
+playwright>=1.40
