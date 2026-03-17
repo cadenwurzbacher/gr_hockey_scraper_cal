@@ -26,6 +26,21 @@ jobs:
       - name: Run scraper
         run: python scrape.py
 
+      - name: Format email body
+        run: python scripts/format_email.py > email_body.txt
+
+      - name: Send email report
+        continue-on-error: true
+        uses: dawidd6/action-send-mail@v4
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          username: ${{ secrets.SMTP_USER }}
+          password: ${{ secrets.SMTP_PASSWORD }}
+          recipient_mail: caden@cadenwurzbacher.com
+          subject: "GR Hockey Calendar – Daily Report"
+          body_path: email_body.txt
+
       - name: Commit and push output
         run: |
           git config user.name "github-actions[bot]"

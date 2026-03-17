@@ -43,7 +43,11 @@ Cedar Rock uses a view-only Google Sheet with **multiple month tabs**. The scrap
 
 ## GitHub Actions
 
-The workflow runs daily at 6 AM Eastern and on manual trigger. It commits `output/gr-hockey.ics` and `output/events.json` so the calendar stays updated.
+The workflow runs daily at 6 AM Eastern and on manual trigger. It commits `output/gr-hockey.ics` and `output/events.json` so the calendar stays updated. It also sends a daily email report to `caden@cadenwurzbacher.com` with scraper status and new events.
+
+**Email secrets (repo Settings → Secrets):**
+- `SMTP_USER` – Gmail address (e.g. `caden@cadenwurzbacher.com`)
+- `SMTP_PASSWORD` – [Gmail app password](https://myaccount.google.com/apppasswords) (not your regular password)
 
 ## GitHub Pages
 
