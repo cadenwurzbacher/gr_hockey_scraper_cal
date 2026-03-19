@@ -106,6 +106,14 @@ SUMMARY:Open Hockey @ Patterson Ice Center
 UID:patterson-ice-center-202606270900-open-hockey@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://www.griffsicehouse.com/ice-schedule-2/
+DTEND:20260419T210000Z
+LOCATION:30 Coldbrook St NE\, Grand Rapids\, MI
+DTSTART:20260419T200000Z
+SUMMARY:Sticks and Pucks (West Rink) @ Griff's IceHouse (Belknap)
+UID:griff's-icehouse-(be-202604191600-sticks-and-pucks--west-rink-@gr-hockey-scraper
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://www.pattersonicecenter.com/event/8350407/2026/4/24
 DTEND:20260424T150000Z
 LOCATION:2550 Patterson Ave SE\, Grand Rapids\, MI
@@ -178,14 +186,6 @@ SUMMARY:Stick & Puck (14 & Up) @ Patterson Ice Center
 UID:patterson-ice-center-202606091700-stick---puck--14---up-@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://www.pattersonicecenter.com/event/8350407/2026/3/18
-DTEND:20260318T150000Z
-LOCATION:2550 Patterson Ave SE\, Grand Rapids\, MI
-DTSTART:20260318T130000Z
-SUMMARY:Open Hockey (55+) @ Patterson Ice Center
-UID:patterson-ice-center-202603180900-open-hockey--55--@gr-hockey-scraper
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://www.pattersonicecenter.com/event/8350407/2026/5/27
 DTEND:20260527T225000Z
 LOCATION:2550 Patterson Ave SE\, Grand Rapids\, MI
@@ -232,14 +232,6 @@ LOCATION:2550 Patterson Ave SE\, Grand Rapids\, MI
 DTSTART:20260505T203000Z
 SUMMARY:Stick & Puck (All Ages) @ Patterson Ice Center
 UID:patterson-ice-center-202605051630-stick---puck--all-ages-@gr-hockey-scraper
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://docs.google.com/spreadsheets/d/1rLaoKgECpzthOg7w9og17OZuN30uTvoiRX56jSo7DOA
-DTEND:20260319T002000Z
-LOCATION:4758 Cornfield Drive NE\, Cedar Springs\, MI 49319
-DTSTART:20260318T230000Z
-SUMMARY:Stick & Puck      13+ @ Cedar Rock Sportsplex
-UID:cedar-rock-sportsple-202603181900-stick---puck------13-@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://www.pattersonicecenter.com/event/8350407/2026/6/10
@@ -610,22 +602,6 @@ SUMMARY:Stick & Puck (Adult Only) @ Patterson Ice Center
 UID:patterson-ice-center-202605010945-stick---puck--adult-only-@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://www.pattersonicecenter.com/event/8350407/2026/3/18
-DTEND:20260318T213000Z
-LOCATION:2550 Patterson Ave SE\, Grand Rapids\, MI
-DTSTART:20260318T203000Z
-SUMMARY:Stick & Puck (All Ages) @ Patterson Ice Center
-UID:patterson-ice-center-202603181630-stick---puck--all-ages-@gr-hockey-scraper
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://schedule.bondsports.co/schedule/Hudsonville-Ice-Schedule
-DTEND:20260318T195000Z
-LOCATION:8500 48th Ave\, Hudsonville\, MI
-DTSTART:20260318T190000Z
-SUMMARY:Stick & Puck (West Rink) @ Hudsonville Ice Arena
-UID:hudsonville-ice-aren-202603181500-stick---puck--west-rink-@gr-hockey-scraper
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://www.pattersonicecenter.com/event/8350407/2026/3/20
 DTEND:20260320T210000Z
 LOCATION:2550 Patterson Ave SE\, Grand Rapids\, MI
@@ -866,7 +842,7 @@ SUMMARY:Sticks and Pucks (West Rink) @ Griff's IceHouse (Belknap)
 UID:griff's-icehouse-(be-202603221600-sticks-and-pucks--west-rink-@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://www.walkericeandfitness.com/Calendar.aspx?EID=9128&month=3&year=2026&day=18&calType=0
+DESCRIPTION:https://www.walkericeandfitness.com/Calendar.aspx?EID=9128&month=3&year=2026&day=19&calType=0
 DTEND:20260320T175000Z
 LOCATION:4151 Remembrance Rd NW\, Walker\, MI
 DTSTART:20260320T160000Z
@@ -1010,7 +986,7 @@ SUMMARY:Stick & Puck (14 & Up) @ Patterson Ice Center
 UID:patterson-ice-center-202606221430-stick---puck--14---up-@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://www.walkericeandfitness.com/Calendar.aspx?EID=9129&month=3&year=2026&day=18&calType=0
+DESCRIPTION:https://www.walkericeandfitness.com/Calendar.aspx?EID=9129&month=3&year=2026&day=19&calType=0
 DTEND:20260327T175000Z
 LOCATION:4151 Remembrance Rd NW\, Walker\, MI
 DTSTART:20260327T160000Z
@@ -1032,6 +1008,14 @@ LOCATION:2550 Patterson Ave SE\, Grand Rapids\, MI
 DTSTART:20260603T203000Z
 SUMMARY:Stick & Puck (All Ages) @ Patterson Ice Center
 UID:patterson-ice-center-202606031630-stick---puck--all-ages-@gr-hockey-scraper
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://docs.google.com/spreadsheets/d/1rLaoKgECpzthOg7w9og17OZuN30uTvoiRX56jSo7DOA
+DTEND:20260331T222000Z
+LOCATION:4758 Cornfield Drive NE\, Cedar Springs\, MI 49319
+DTSTART:20260331T210000Z
+SUMMARY:Stick & Puck      13+ @ Cedar Rock Sportsplex
+UID:cedar-rock-sportsple-202603311700-stick---puck------13-@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://www.pattersonicecenter.com/event/8350407/2026/6/8

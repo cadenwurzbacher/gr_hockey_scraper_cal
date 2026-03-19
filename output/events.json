@@ -2,24 +2,6 @@
   "patterson": [
     {
       "venue": "Patterson Ice Center",
-      "title": "Open Hockey (55+)",
-      "start": "2026-03-18T09:00:00-04:00",
-      "end": "2026-03-18T11:00:00-04:00",
-      "url": "https://www.pattersonicecenter.com/event/8350407/2026/3/18",
-      "source_id": "patterson-2026-3-18-Open Hockey (55+)",
-      "location": "2550 Patterson Ave SE, Grand Rapids, MI"
-    },
-    {
-      "venue": "Patterson Ice Center",
-      "title": "Stick & Puck (All Ages)",
-      "start": "2026-03-18T16:30:00-04:00",
-      "end": "2026-03-18T17:30:00-04:00",
-      "url": "https://www.pattersonicecenter.com/event/8350407/2026/3/18",
-      "source_id": "patterson-2026-3-18-Stick & Puck (All Ages)",
-      "location": "2550 Patterson Ave SE, Grand Rapids, MI"
-    },
-    {
-      "venue": "Patterson Ice Center",
       "title": "Open Hockey",
       "start": "2026-03-20T09:00:00-04:00",
       "end": "2026-03-20T10:50:00-04:00",
@@ -1006,7 +988,7 @@
       "title": "Stick & Pucks 12-1:50pm",
       "start": "2026-03-20T12:00:00-04:00",
       "end": "2026-03-20T13:50:00-04:00",
-      "url": "https://www.walkericeandfitness.com/Calendar.aspx?EID=9128&month=3&year=2026&day=18&calType=0",
+      "url": "https://www.walkericeandfitness.com/Calendar.aspx?EID=9128&month=3&year=2026&day=19&calType=0",
       "source_id": "walker-20260320-Stick & Pucks 12-1:50pm",
       "location": "4151 Remembrance Rd NW, Walker, MI"
     },
@@ -1015,7 +997,7 @@
       "title": "Stick & Pucks 12-1:50pm",
       "start": "2026-03-27T12:00:00-04:00",
       "end": "2026-03-27T13:50:00-04:00",
-      "url": "https://www.walkericeandfitness.com/Calendar.aspx?EID=9129&month=3&year=2026&day=18&calType=0",
+      "url": "https://www.walkericeandfitness.com/Calendar.aspx?EID=9129&month=3&year=2026&day=19&calType=0",
       "source_id": "walker-20260327-Stick & Pucks 12-1:50pm",
       "location": "4151 Remembrance Rd NW, Walker, MI"
     }
@@ -1065,18 +1047,18 @@
       "url": "https://www.griffsicehouse.com/ice-schedule-2/",
       "source_id": "griffs_belknap-202604121600-sticks-and-pucks--west-rink-@gr-hockey-scraper",
       "location": "30 Coldbrook St NE, Grand Rapids, MI"
+    },
+    {
+      "venue": "Griff's IceHouse (Belknap)",
+      "title": "Sticks and Pucks (West Rink)",
+      "start": "2026-04-19T16:00:00-04:00",
+      "end": "2026-04-19T17:00:00-04:00",
+      "url": "https://www.griffsicehouse.com/ice-schedule-2/",
+      "source_id": "griffs_belknap-202604191600-sticks-and-pucks--west-rink-@gr-hockey-scraper",
+      "location": "30 Coldbrook St NE, Grand Rapids, MI"
     }
   ],
   "griffs_georgetown": [
-    {
-      "venue": "Hudsonville Ice Arena",
-      "title": "Stick & Puck (West Rink)",
-      "start": "2026-03-18T15:00:00-04:00",
-      "end": "2026-03-18T15:50:00-04:00",
-      "url": "https://schedule.bondsports.co/schedule/Hudsonville-Ice-Schedule",
-      "source_id": "griffs_georgetown-202603181500-stick---puck--west-rink-@gr-hockey-scraper",
-      "location": "8500 48th Ave, Hudsonville, MI"
-    },
     {
       "venue": "Hudsonville Ice Arena",
       "title": "Stick & Puck (East Rink)",
@@ -1183,15 +1165,6 @@
     {
       "venue": "Cedar Rock Sportsplex",
       "title": "Stick & Puck      13+",
-      "start": "2026-03-18T19:00:00-04:00",
-      "end": "2026-03-18T20:20:00-04:00",
-      "url": "https://docs.google.com/spreadsheets/d/1rLaoKgECpzthOg7w9og17OZuN30uTvoiRX56jSo7DOA",
-      "source_id": "cedarrock-20260318-Stick & Puck      13",
-      "location": "4758 Cornfield Drive NE, Cedar Springs, MI 49319"
-    },
-    {
-      "venue": "Cedar Rock Sportsplex",
-      "title": "Stick & Puck      13+",
       "start": "2026-03-19T18:30:00-04:00",
       "end": "2026-03-19T19:50:00-04:00",
       "url": "https://docs.google.com/spreadsheets/d/1rLaoKgECpzthOg7w9og17OZuN30uTvoiRX56jSo7DOA",
@@ -1223,6 +1196,15 @@
       "end": "2026-03-27T16:50:00-04:00",
       "url": "https://docs.google.com/spreadsheets/d/1rLaoKgECpzthOg7w9og17OZuN30uTvoiRX56jSo7DOA",
       "source_id": "cedarrock-20260327-Stick & Puck      13",
+      "location": "4758 Cornfield Drive NE, Cedar Springs, MI 49319"
+    },
+    {
+      "venue": "Cedar Rock Sportsplex",
+      "title": "Stick & Puck      13+",
+      "start": "2026-03-31T17:00:00-04:00",
+      "end": "2026-03-31T18:20:00-04:00",
+      "url": "https://docs.google.com/spreadsheets/d/1rLaoKgECpzthOg7w9og17OZuN30uTvoiRX56jSo7DOA",
+      "source_id": "cedarrock-20260331-Stick & Puck      13",
       "location": "4758 Cornfield Drive NE, Cedar Springs, MI 49319"
     }
   ]
