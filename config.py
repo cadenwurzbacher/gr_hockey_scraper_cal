@@ -33,6 +33,10 @@ VENUES = {
         "name": "Holland Ice Arena (Griff's West)",
         "address": "4444 Holland Avenue, Holland, MI 49424",
     },
+    "lakeshore": {
+        "name": "Lakeshore Sports Centre",
+        "address": "4470 Airline Road, Muskegon, MI 49444",
+    },
 }
 
 CEDAR_ROCK_SHEET_URL = "https://docs.google.com/spreadsheets/d/1rLaoKgECpzthOg7w9og17OZuN30uTvoiRX56jSo7DOA"

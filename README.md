@@ -33,6 +33,7 @@ Outputs:
 | Eagles Ice Center | No S&P/Open Hockey offered |
 | Cedar Rock Sportsplex | Working (Google Sheet; keep sheet updated with current month) |
 | Holland Ice Arena (Griff's West) | Working (Google Sheet) |
+| Lakeshore Sports Centre | Working (Google Sheet Monthly tab) |
 
 ## Cedar Rock Google Sheet
 

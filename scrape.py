@@ -37,6 +37,7 @@ def run_scrapers() -> tuple[dict[str, list], list[str], list[tuple[str, str]]]:
         ("eagles", "scrapers.eagles", "scrape"),
         ("cedar_rock", "scrapers.cedar_rock", "scrape"),
         ("holland", "scrapers.holland", "scrape"),
+        ("lakeshore", "scrapers.lakeshore", "scrape"),
     ]
 
     for venue_id, mod_name, func_name in scrapers:
