@@ -970,7 +970,7 @@
       "title": "Stick & Pucks 12-1:50pm",
       "start": "2026-03-27T12:00:00-04:00",
       "end": "2026-03-27T13:50:00-04:00",
-      "url": "https://www.walkericeandfitness.com/Calendar.aspx?EID=9129&month=3&year=2026&day=21&calType=0",
+      "url": "https://www.walkericeandfitness.com/Calendar.aspx?EID=9129&month=3&year=2026&day=22&calType=0",
       "source_id": "walker-20260327-Stick & Pucks 12-1:50pm",
       "location": "4151 Remembrance Rd NW, Walker, MI"
     }
@@ -1041,15 +1041,6 @@
     }
   ],
   "griffs_georgetown": [
-    {
-      "venue": "Hudsonville Ice Arena",
-      "title": "Stick & Puck (East Rink)",
-      "start": "2026-03-21T12:00:00-04:00",
-      "end": "2026-03-21T12:50:00-04:00",
-      "url": "https://schedule.bondsports.co/schedule/Hudsonville-Ice-Schedule",
-      "source_id": "griffs_georgetown-202603211200-stick---puck--east-rink-@gr-hockey-scraper",
-      "location": "8500 48th Ave, Hudsonville, MI"
-    },
     {
       "venue": "Hudsonville Ice Arena",
       "title": "Stick & Puck (West Rink)",
