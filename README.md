@@ -32,6 +32,7 @@ Outputs:
 | Southside Ice Arena | Working (rectimes API) |
 | Eagles Ice Center | No S&P/Open Hockey offered |
 | Cedar Rock Sportsplex | Working (Google Sheet; keep sheet updated with current month) |
+| Holland Ice Arena (Griff's West) | Working (Google Sheet) |
 
 ## Cedar Rock Google Sheet
 

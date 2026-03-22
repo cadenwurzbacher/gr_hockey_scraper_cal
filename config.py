@@ -29,6 +29,10 @@ VENUES = {
         "name": "Cedar Rock Sportsplex",
         "address": "4758 Cornfield Drive NE, Cedar Springs, MI 49319",
     },
+    "holland": {
+        "name": "Holland Ice Arena (Griff's West)",
+        "address": "4444 Holland Avenue, Holland, MI 49424",
+    },
 }
 
 CEDAR_ROCK_SHEET_URL = "https://docs.google.com/spreadsheets/d/1rLaoKgECpzthOg7w9og17OZuN30uTvoiRX56jSo7DOA"
