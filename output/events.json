@@ -2,15 +2,6 @@
   "patterson": [
     {
       "venue": "Patterson Ice Center",
-      "title": "Open Hockey",
-      "start": "2026-03-24T09:00:00-04:00",
-      "end": "2026-03-24T11:00:00-04:00",
-      "url": "https://www.pattersonicecenter.com/event/8350407/2026/3/24",
-      "source_id": "patterson-2026-3-24-Open Hockey",
-      "location": "2550 Patterson Ave SE, Grand Rapids, MI"
-    },
-    {
-      "venue": "Patterson Ice Center",
       "title": "Open Hockey (55+)",
       "start": "2026-03-25T09:00:00-04:00",
       "end": "2026-03-25T11:00:00-04:00",
@@ -952,7 +943,7 @@
       "title": "Stick & Pucks 12-1:50pm",
       "start": "2026-03-27T12:00:00-04:00",
       "end": "2026-03-27T13:50:00-04:00",
-      "url": "https://www.walkericeandfitness.com/Calendar.aspx?EID=9129&month=3&year=2026&day=24&calType=0",
+      "url": "https://www.walkericeandfitness.com/Calendar.aspx?EID=9129&month=3&year=2026&day=25&calType=0",
       "source_id": "walker-20260327-Stick & Pucks 12-1:50pm",
       "location": "4151 Remembrance Rd NW, Walker, MI"
     }
@@ -1185,15 +1176,6 @@
     {
       "venue": "Holland Ice Arena (Griff's West)",
       "title": "Stick & Puck ALL AGES (Red Arena)",
-      "start": "2026-03-24T20:00:00-04:00",
-      "end": "2026-03-24T20:50:00-04:00",
-      "url": "https://www.griffswest.com/",
-      "source_id": "holland-202603242000-stick---puck-all-ages--red-arena-@gr-hockey-scraper",
-      "location": "4444 Holland Avenue, Holland, MI 49424"
-    },
-    {
-      "venue": "Holland Ice Arena (Griff's West)",
-      "title": "Stick & Puck ALL AGES (Red Arena)",
       "start": "2026-03-25T19:00:00-04:00",
       "end": "2026-03-25T19:50:00-04:00",
       "url": "https://www.griffswest.com/",
@@ -1280,27 +1262,18 @@
       "url": "https://www.griffswest.com/",
       "source_id": "holland-202604172000-stick---puck-all-ages--blue-arena-@gr-hockey-scraper",
       "location": "4444 Holland Avenue, Holland, MI 49424"
+    },
+    {
+      "venue": "Holland Ice Arena (Griff's West)",
+      "title": "Stick & Puck ALL AGES (Blue Arena)",
+      "start": "2026-04-24T20:00:00-04:00",
+      "end": "2026-04-24T20:50:00-04:00",
+      "url": "https://www.griffswest.com/",
+      "source_id": "holland-202604242000-stick---puck-all-ages--blue-arena-@gr-hockey-scraper",
+      "location": "4444 Holland Avenue, Holland, MI 49424"
     }
   ],
   "lakeshore": [
-    {
-      "venue": "Lakeshore Sports Centre",
-      "title": "Family Sticks and Pucks (North Rink)",
-      "start": "2026-03-24T17:00:00-04:00",
-      "end": "2026-03-24T18:20:00-04:00",
-      "url": "https://lakeshoresportscentre.net/",
-      "source_id": "lakeshore-202603241700-family-sticks-and-pucks--north-rink-@gr-hockey-scraper",
-      "location": "4470 Airline Road, Muskegon, MI 49444"
-    },
-    {
-      "venue": "Lakeshore Sports Centre",
-      "title": "Sticks and Pucks (South Rink)",
-      "start": "2026-03-24T17:30:00-04:00",
-      "end": "2026-03-24T18:50:00-04:00",
-      "url": "https://lakeshoresportscentre.net/",
-      "source_id": "lakeshore-202603241730-sticks-and-pucks--south-rink-@gr-hockey-scraper",
-      "location": "4470 Airline Road, Muskegon, MI 49444"
-    },
     {
       "venue": "Lakeshore Sports Centre",
       "title": "Sticks and Pucks (North Rink)",
@@ -1524,6 +1497,24 @@
       "end": "2026-04-24T13:35:00-04:00",
       "url": "https://lakeshoresportscentre.net/",
       "source_id": "lakeshore-202604241215-sticks-and-pucks--north-rink-@gr-hockey-scraper",
+      "location": "4470 Airline Road, Muskegon, MI 49444"
+    },
+    {
+      "venue": "Lakeshore Sports Centre",
+      "title": "Family Sticks and Puck (North Rink)",
+      "start": "2026-04-25T12:30:00-04:00",
+      "end": "2026-04-25T14:00:00-04:00",
+      "url": "https://lakeshoresportscentre.net/",
+      "source_id": "lakeshore-202604251230-family-sticks-and-puck--north-rink-@gr-hockey-scraper",
+      "location": "4470 Airline Road, Muskegon, MI 49444"
+    },
+    {
+      "venue": "Lakeshore Sports Centre",
+      "title": "Sticks and Pucks (South Rink)",
+      "start": "2026-04-25T13:30:00-04:00",
+      "end": "2026-04-25T15:00:00-04:00",
+      "url": "https://lakeshoresportscentre.net/",
+      "source_id": "lakeshore-202604251330-sticks-and-pucks--south-rink-@gr-hockey-scraper",
       "location": "4470 Airline Road, Muskegon, MI 49444"
     }
   ]
