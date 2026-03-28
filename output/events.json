@@ -3,15 +3,6 @@
     {
       "venue": "Patterson Ice Center",
       "title": "Open Hockey",
-      "start": "2026-03-27T09:00:00-04:00",
-      "end": "2026-03-27T11:00:00-04:00",
-      "url": "https://www.pattersonicecenter.com/event/8350407/2026/3/27",
-      "source_id": "patterson-2026-3-27-Open Hockey",
-      "location": "2550 Patterson Ave SE, Grand Rapids, MI"
-    },
-    {
-      "venue": "Patterson Ice Center",
-      "title": "Open Hockey",
       "start": "2026-03-31T09:00:00-04:00",
       "end": "2026-03-31T11:00:00-04:00",
       "url": "https://www.pattersonicecenter.com/event/8350407/2026/3/31",
@@ -896,18 +887,9 @@
     {
       "venue": "Walker Ice & Fitness",
       "title": "Stick & Pucks 12-1:50pm",
-      "start": "2026-03-27T12:00:00-04:00",
-      "end": "2026-03-27T13:50:00-04:00",
-      "url": "https://www.walkericeandfitness.com/Calendar.aspx?EID=9129&month=3&year=2026&day=27&calType=0",
-      "source_id": "walker-20260327-Stick & Pucks 12-1:50pm",
-      "location": "4151 Remembrance Rd NW, Walker, MI"
-    },
-    {
-      "venue": "Walker Ice & Fitness",
-      "title": "Stick & Pucks 12-1:50pm",
       "start": "2026-04-03T12:00:00-04:00",
       "end": "2026-04-03T13:50:00-04:00",
-      "url": "https://www.walkericeandfitness.com/Calendar.aspx?EID=9160&month=4&year=2026&day=27&calType=0",
+      "url": "https://www.walkericeandfitness.com/Calendar.aspx?EID=9160&month=4&year=2026&day=28&calType=0",
       "source_id": "walker-20260403-Stick & Pucks 12-1:50pm",
       "location": "4151 Remembrance Rd NW, Walker, MI"
     },
@@ -916,7 +898,7 @@
       "title": "Stick & Puck 6-7:20pm",
       "start": "2026-04-07T18:00:00-04:00",
       "end": "2026-04-07T19:20:00-04:00",
-      "url": "https://www.walkericeandfitness.com/Calendar.aspx?EID=9168&month=4&year=2026&day=27&calType=0",
+      "url": "https://www.walkericeandfitness.com/Calendar.aspx?EID=9168&month=4&year=2026&day=28&calType=0",
       "source_id": "walker-20260407-Stick & Puck 6-7:20pm",
       "location": "4151 Remembrance Rd NW, Walker, MI"
     },
@@ -925,7 +907,7 @@
       "title": "Stick & Puck 6-7:20pm",
       "start": "2026-04-09T18:00:00-04:00",
       "end": "2026-04-09T19:20:00-04:00",
-      "url": "https://www.walkericeandfitness.com/Calendar.aspx?EID=9169&month=4&year=2026&day=27&calType=0",
+      "url": "https://www.walkericeandfitness.com/Calendar.aspx?EID=9169&month=4&year=2026&day=28&calType=0",
       "source_id": "walker-20260409-Stick & Puck 6-7:20pm",
       "location": "4151 Remembrance Rd NW, Walker, MI"
     },
@@ -934,7 +916,7 @@
       "title": "Stick & Pucks 12-1:50pm",
       "start": "2026-04-10T12:00:00-04:00",
       "end": "2026-04-10T13:50:00-04:00",
-      "url": "https://www.walkericeandfitness.com/Calendar.aspx?EID=9161&month=4&year=2026&day=27&calType=0",
+      "url": "https://www.walkericeandfitness.com/Calendar.aspx?EID=9161&month=4&year=2026&day=28&calType=0",
       "source_id": "walker-20260410-Stick & Pucks 12-1:50pm",
       "location": "4151 Remembrance Rd NW, Walker, MI"
     },
@@ -943,7 +925,7 @@
       "title": "Stick & Puck 5:30-6:50pm",
       "start": "2026-04-10T17:30:00-04:00",
       "end": "2026-04-10T18:50:00-04:00",
-      "url": "https://www.walkericeandfitness.com/Calendar.aspx?EID=9170&month=4&year=2026&day=27&calType=0",
+      "url": "https://www.walkericeandfitness.com/Calendar.aspx?EID=9170&month=4&year=2026&day=28&calType=0",
       "source_id": "walker-20260410-Stick & Puck 5:30-6:50pm",
       "location": "4151 Remembrance Rd NW, Walker, MI"
     },
@@ -952,7 +934,7 @@
       "title": "Stick & Pucks 12-1:50pm",
       "start": "2026-04-17T12:00:00-04:00",
       "end": "2026-04-17T13:50:00-04:00",
-      "url": "https://www.walkericeandfitness.com/Calendar.aspx?EID=9162&month=4&year=2026&day=27&calType=0",
+      "url": "https://www.walkericeandfitness.com/Calendar.aspx?EID=9162&month=4&year=2026&day=28&calType=0",
       "source_id": "walker-20260417-Stick & Pucks 12-1:50pm",
       "location": "4151 Remembrance Rd NW, Walker, MI"
     },
@@ -961,7 +943,7 @@
       "title": "Stick & Pucks 12-1:50pm",
       "start": "2026-04-24T12:00:00-04:00",
       "end": "2026-04-24T13:50:00-04:00",
-      "url": "https://www.walkericeandfitness.com/Calendar.aspx?EID=9163&month=4&year=2026&day=27&calType=0",
+      "url": "https://www.walkericeandfitness.com/Calendar.aspx?EID=9163&month=4&year=2026&day=28&calType=0",
       "source_id": "walker-20260424-Stick & Pucks 12-1:50pm",
       "location": "4151 Remembrance Rd NW, Walker, MI"
     }
@@ -1023,15 +1005,6 @@
     }
   ],
   "griffs_georgetown": [
-    {
-      "venue": "Hudsonville Ice Arena",
-      "title": "Stick & Puck (East Rink)",
-      "start": "2026-03-27T19:00:00-04:00",
-      "end": "2026-03-27T19:50:00-04:00",
-      "url": "https://schedule.bondsports.co/schedule/Hudsonville-Ice-Schedule",
-      "source_id": "griffs_georgetown-202603271900-stick---puck--east-rink-@gr-hockey-scraper",
-      "location": "8500 48th Ave, Hudsonville, MI"
-    },
     {
       "venue": "Hudsonville Ice Arena",
       "title": "Stick & Puck (West Rink)",
@@ -1275,15 +1248,6 @@
     {
       "venue": "Holland Ice Arena (Griff's West)",
       "title": "Stick & Puck ALL AGES (Red Arena)",
-      "start": "2026-03-27T20:00:00-04:00",
-      "end": "2026-03-27T20:50:00-04:00",
-      "url": "https://www.griffswest.com/",
-      "source_id": "holland-202603272000-stick---puck-all-ages--red-arena-@gr-hockey-scraper",
-      "location": "4444 Holland Avenue, Holland, MI 49424"
-    },
-    {
-      "venue": "Holland Ice Arena (Griff's West)",
-      "title": "Stick & Puck ALL AGES (Red Arena)",
       "start": "2026-03-28T13:00:00-04:00",
       "end": "2026-03-28T13:50:00-04:00",
       "url": "https://www.griffswest.com/",
@@ -1320,10 +1284,28 @@
     {
       "venue": "Holland Ice Arena (Griff's West)",
       "title": "Stick & Puck ALL AGES (Red Arena)",
+      "start": "2026-04-01T19:00:00-04:00",
+      "end": "2026-04-01T19:50:00-04:00",
+      "url": "https://www.griffswest.com/",
+      "source_id": "holland-202604011900-stick---puck-all-ages--red-arena-@gr-hockey-scraper",
+      "location": "4444 Holland Avenue, Holland, MI 49424"
+    },
+    {
+      "venue": "Holland Ice Arena (Griff's West)",
+      "title": "Stick & Puck ALL AGES (Red Arena)",
       "start": "2026-04-03T20:00:00-04:00",
       "end": "2026-04-03T20:50:00-04:00",
       "url": "https://www.griffswest.com/",
       "source_id": "holland-202604032000-stick---puck-all-ages--red-arena-@gr-hockey-scraper",
+      "location": "4444 Holland Avenue, Holland, MI 49424"
+    },
+    {
+      "venue": "Holland Ice Arena (Griff's West)",
+      "title": "Stick & Puck ALL AGES (Red Arena)",
+      "start": "2026-04-08T19:00:00-04:00",
+      "end": "2026-04-08T19:50:00-04:00",
+      "url": "https://www.griffswest.com/",
+      "source_id": "holland-202604081900-stick---puck-all-ages--red-arena-@gr-hockey-scraper",
       "location": "4444 Holland Avenue, Holland, MI 49424"
     },
     {
@@ -1334,36 +1316,45 @@
       "url": "https://www.griffswest.com/",
       "source_id": "holland-202604102000-stick---puck-all-ages--red-arena-@gr-hockey-scraper",
       "location": "4444 Holland Avenue, Holland, MI 49424"
+    },
+    {
+      "venue": "Holland Ice Arena (Griff's West)",
+      "title": "Stick & Puck ALL AGES (Red Arena)",
+      "start": "2026-04-15T19:00:00-04:00",
+      "end": "2026-04-15T19:50:00-04:00",
+      "url": "https://www.griffswest.com/",
+      "source_id": "holland-202604151900-stick---puck-all-ages--red-arena-@gr-hockey-scraper",
+      "location": "4444 Holland Avenue, Holland, MI 49424"
+    },
+    {
+      "venue": "Holland Ice Arena (Griff's West)",
+      "title": "Stick & Puck ALL AGES (Red Arena)",
+      "start": "2026-04-17T20:00:00-04:00",
+      "end": "2026-04-17T20:50:00-04:00",
+      "url": "https://www.griffswest.com/",
+      "source_id": "holland-202604172000-stick---puck-all-ages--red-arena-@gr-hockey-scraper",
+      "location": "4444 Holland Avenue, Holland, MI 49424"
+    },
+    {
+      "venue": "Holland Ice Arena (Griff's West)",
+      "title": "Stick & Puck ALL AGES (Red Arena)",
+      "start": "2026-04-22T19:00:00-04:00",
+      "end": "2026-04-22T19:50:00-04:00",
+      "url": "https://www.griffswest.com/",
+      "source_id": "holland-202604221900-stick---puck-all-ages--red-arena-@gr-hockey-scraper",
+      "location": "4444 Holland Avenue, Holland, MI 49424"
+    },
+    {
+      "venue": "Holland Ice Arena (Griff's West)",
+      "title": "Stick & Puck ALL AGES (Blue Arena)",
+      "start": "2026-04-24T20:00:00-04:00",
+      "end": "2026-04-24T20:50:00-04:00",
+      "url": "https://www.griffswest.com/",
+      "source_id": "holland-202604242000-stick---puck-all-ages--blue-arena-@gr-hockey-scraper",
+      "location": "4444 Holland Avenue, Holland, MI 49424"
     }
   ],
   "lakeshore": [
-    {
-      "venue": "Lakeshore Sports Centre",
-      "title": "Sticks and Pucks (North Rink)",
-      "start": "2026-03-27T12:15:00-04:00",
-      "end": "2026-03-27T13:35:00-04:00",
-      "url": "https://lakeshoresportscentre.net/",
-      "source_id": "lakeshore-202603271215-sticks-and-pucks--north-rink-@gr-hockey-scraper",
-      "location": "4470 Airline Road, Muskegon, MI 49444"
-    },
-    {
-      "venue": "Lakeshore Sports Centre",
-      "title": "Family Sticks and Pucks (South Rink)",
-      "start": "2026-03-27T18:00:00-04:00",
-      "end": "2026-03-27T19:20:00-04:00",
-      "url": "https://lakeshoresportscentre.net/",
-      "source_id": "lakeshore-202603271800-family-sticks-and-pucks--south-rink-@gr-hockey-scraper",
-      "location": "4470 Airline Road, Muskegon, MI 49444"
-    },
-    {
-      "venue": "Lakeshore Sports Centre",
-      "title": "Sticks and Pucks (South Rink)",
-      "start": "2026-03-27T19:30:00-04:00",
-      "end": "2026-03-27T20:50:00-04:00",
-      "url": "https://lakeshoresportscentre.net/",
-      "source_id": "lakeshore-202603271930-sticks-and-pucks--south-rink-@gr-hockey-scraper",
-      "location": "4470 Airline Road, Muskegon, MI 49444"
-    },
     {
       "venue": "Lakeshore Sports Centre",
       "title": "Sticks and Pucks (South Rink)",
@@ -1483,6 +1474,24 @@
     },
     {
       "venue": "Lakeshore Sports Centre",
+      "title": "Sticks and Pucks (North Rink)",
+      "start": "2026-04-06T12:00:00-04:00",
+      "end": "2026-04-06T13:20:00-04:00",
+      "url": "https://lakeshoresportscentre.net/",
+      "source_id": "lakeshore-202604061200-sticks-and-pucks--north-rink-@gr-hockey-scraper",
+      "location": "4470 Airline Road, Muskegon, MI 49444"
+    },
+    {
+      "venue": "Lakeshore Sports Centre",
+      "title": "Family Sticks and Pucks (South Rink)",
+      "start": "2026-04-06T12:00:00-04:00",
+      "end": "2026-04-06T13:20:00-04:00",
+      "url": "https://lakeshoresportscentre.net/",
+      "source_id": "lakeshore-202604061200-family-sticks-and-pucks--south-rink-@gr-hockey-scraper",
+      "location": "4470 Airline Road, Muskegon, MI 49444"
+    },
+    {
+      "venue": "Lakeshore Sports Centre",
       "title": "Family Sticks and Pucks (North Rink)",
       "start": "2026-04-06T17:30:00-04:00",
       "end": "2026-04-06T18:50:00-04:00",
@@ -1497,6 +1506,24 @@
       "end": "2026-04-06T20:20:00-04:00",
       "url": "https://lakeshoresportscentre.net/",
       "source_id": "lakeshore-202604061900-sticks-and-pucks--south-rink-@gr-hockey-scraper",
+      "location": "4470 Airline Road, Muskegon, MI 49444"
+    },
+    {
+      "venue": "Lakeshore Sports Centre",
+      "title": "Sticks and Pucks (North Rink)",
+      "start": "2026-04-07T12:00:00-04:00",
+      "end": "2026-04-07T13:20:00-04:00",
+      "url": "https://lakeshoresportscentre.net/",
+      "source_id": "lakeshore-202604071200-sticks-and-pucks--north-rink-@gr-hockey-scraper",
+      "location": "4470 Airline Road, Muskegon, MI 49444"
+    },
+    {
+      "venue": "Lakeshore Sports Centre",
+      "title": "Family Sticks and Pucks (South Rink)",
+      "start": "2026-04-07T12:00:00-04:00",
+      "end": "2026-04-07T13:20:00-04:00",
+      "url": "https://lakeshoresportscentre.net/",
+      "source_id": "lakeshore-202604071200-family-sticks-and-pucks--south-rink-@gr-hockey-scraper",
       "location": "4470 Airline Road, Muskegon, MI 49444"
     },
     {
@@ -1542,6 +1569,24 @@
       "end": "2026-04-08T19:05:00-04:00",
       "url": "https://lakeshoresportscentre.net/",
       "source_id": "lakeshore-202604081745-sticks-and-pucks--north-rink-@gr-hockey-scraper",
+      "location": "4470 Airline Road, Muskegon, MI 49444"
+    },
+    {
+      "venue": "Lakeshore Sports Centre",
+      "title": "Sticks and Pucks (North Rink)",
+      "start": "2026-04-09T12:00:00-04:00",
+      "end": "2026-04-09T13:20:00-04:00",
+      "url": "https://lakeshoresportscentre.net/",
+      "source_id": "lakeshore-202604091200-sticks-and-pucks--north-rink-@gr-hockey-scraper",
+      "location": "4470 Airline Road, Muskegon, MI 49444"
+    },
+    {
+      "venue": "Lakeshore Sports Centre",
+      "title": "Family Sticks and Pucks (South Rink)",
+      "start": "2026-04-09T12:00:00-04:00",
+      "end": "2026-04-09T13:20:00-04:00",
+      "url": "https://lakeshoresportscentre.net/",
+      "source_id": "lakeshore-202604091200-family-sticks-and-pucks--south-rink-@gr-hockey-scraper",
       "location": "4470 Airline Road, Muskegon, MI 49444"
     },
     {
