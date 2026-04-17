@@ -2,15 +2,6 @@
   "patterson": [
     {
       "venue": "Patterson Ice Center",
-      "title": "Stick & Puck (14 & Up)",
-      "start": "2026-04-16T16:00:00-04:00",
-      "end": "2026-04-16T17:00:00-04:00",
-      "url": "https://www.pattersonicecenter.com/event/8350407/2026/4/16",
-      "source_id": "patterson-2026-4-16-Stick & Puck (14 & Up)",
-      "location": "2550 Patterson Ave SE, Grand Rapids, MI"
-    },
-    {
-      "venue": "Patterson Ice Center",
       "title": "Open Hockey",
       "start": "2026-04-17T09:00:00-04:00",
       "end": "2026-04-17T11:00:00-04:00",
@@ -119,6 +110,15 @@
     },
     {
       "venue": "Patterson Ice Center",
+      "title": "Stick & Puck (All Ages)",
+      "start": "2026-04-27T21:00:00-04:00",
+      "end": "2026-04-27T22:00:00-04:00",
+      "url": "https://www.pattersonicecenter.com/event/8350407/2026/4/27",
+      "source_id": "patterson-2026-4-27-Stick & Puck (All Ages)",
+      "location": "2550 Patterson Ave SE, Grand Rapids, MI"
+    },
+    {
+      "venue": "Patterson Ice Center",
       "title": "Open Hockey",
       "start": "2026-04-28T09:00:00-04:00",
       "end": "2026-04-28T11:00:00-04:00",
@@ -137,11 +137,29 @@
     },
     {
       "venue": "Patterson Ice Center",
+      "title": "Stick & Puck (All Ages)",
+      "start": "2026-04-28T20:00:00-04:00",
+      "end": "2026-04-28T21:00:00-04:00",
+      "url": "https://www.pattersonicecenter.com/event/8350407/2026/4/28",
+      "source_id": "patterson-2026-4-28-Stick & Puck (All Ages)",
+      "location": "2550 Patterson Ave SE, Grand Rapids, MI"
+    },
+    {
+      "venue": "Patterson Ice Center",
       "title": "Open Hockey (55+)",
       "start": "2026-04-29T09:00:00-04:00",
       "end": "2026-04-29T11:00:00-04:00",
       "url": "https://www.pattersonicecenter.com/event/8350407/2026/4/29",
       "source_id": "patterson-2026-4-29-Open Hockey (55+)",
+      "location": "2550 Patterson Ave SE, Grand Rapids, MI"
+    },
+    {
+      "venue": "Patterson Ice Center",
+      "title": "Stick & Puck (All Ages)",
+      "start": "2026-04-29T20:30:00-04:00",
+      "end": "2026-04-29T21:30:00-04:00",
+      "url": "https://www.pattersonicecenter.com/event/8350407/2026/4/29",
+      "source_id": "patterson-2026-4-29-Stick & Puck (All Ages)",
       "location": "2550 Patterson Ave SE, Grand Rapids, MI"
     },
     {
@@ -488,6 +506,15 @@
     },
     {
       "venue": "Patterson Ice Center",
+      "title": "Stick & Puck (All Ages)",
+      "start": "2026-05-27T21:00:00-04:00",
+      "end": "2026-05-27T22:00:00-04:00",
+      "url": "https://www.pattersonicecenter.com/event/8350407/2026/5/27",
+      "source_id": "patterson-2026-5-27-Stick & Puck (All Ages)",
+      "location": "2550 Patterson Ave SE, Grand Rapids, MI"
+    },
+    {
+      "venue": "Patterson Ice Center",
       "title": "Open Hockey",
       "start": "2026-05-28T09:00:00-04:00",
       "end": "2026-05-28T11:00:00-04:00",
@@ -506,11 +533,29 @@
     },
     {
       "venue": "Patterson Ice Center",
+      "title": "Stick & Puck (All Ages)",
+      "start": "2026-05-28T20:00:00-04:00",
+      "end": "2026-05-28T21:00:00-04:00",
+      "url": "https://www.pattersonicecenter.com/event/8350407/2026/5/28",
+      "source_id": "patterson-2026-5-28-Stick & Puck (All Ages)",
+      "location": "2550 Patterson Ave SE, Grand Rapids, MI"
+    },
+    {
+      "venue": "Patterson Ice Center",
       "title": "Open Hockey (55+)",
       "start": "2026-05-29T09:00:00-04:00",
       "end": "2026-05-29T11:00:00-04:00",
       "url": "https://www.pattersonicecenter.com/event/8350407/2026/5/29",
       "source_id": "patterson-2026-5-29-Open Hockey (55+)",
+      "location": "2550 Patterson Ave SE, Grand Rapids, MI"
+    },
+    {
+      "venue": "Patterson Ice Center",
+      "title": "Stick & Puck (All Ages)",
+      "start": "2026-05-29T20:30:00-04:00",
+      "end": "2026-05-29T21:30:00-04:00",
+      "url": "https://www.pattersonicecenter.com/event/8350407/2026/5/29",
+      "source_id": "patterson-2026-5-29-Stick & Puck (All Ages)",
       "location": "2550 Patterson Ave SE, Grand Rapids, MI"
     },
     {
@@ -857,6 +902,15 @@
     },
     {
       "venue": "Patterson Ice Center",
+      "title": "Stick & Puck (All Ages)",
+      "start": "2026-06-27T21:00:00-04:00",
+      "end": "2026-06-27T22:00:00-04:00",
+      "url": "https://www.pattersonicecenter.com/event/8350407/2026/6/27",
+      "source_id": "patterson-2026-6-27-Stick & Puck (All Ages)",
+      "location": "2550 Patterson Ave SE, Grand Rapids, MI"
+    },
+    {
+      "venue": "Patterson Ice Center",
       "title": "Open Hockey",
       "start": "2026-06-28T09:00:00-04:00",
       "end": "2026-06-28T11:00:00-04:00",
@@ -875,11 +929,29 @@
     },
     {
       "venue": "Patterson Ice Center",
+      "title": "Stick & Puck (All Ages)",
+      "start": "2026-06-28T20:00:00-04:00",
+      "end": "2026-06-28T21:00:00-04:00",
+      "url": "https://www.pattersonicecenter.com/event/8350407/2026/6/28",
+      "source_id": "patterson-2026-6-28-Stick & Puck (All Ages)",
+      "location": "2550 Patterson Ave SE, Grand Rapids, MI"
+    },
+    {
+      "venue": "Patterson Ice Center",
       "title": "Open Hockey (55+)",
       "start": "2026-06-29T09:00:00-04:00",
       "end": "2026-06-29T11:00:00-04:00",
       "url": "https://www.pattersonicecenter.com/event/8350407/2026/6/29",
       "source_id": "patterson-2026-6-29-Open Hockey (55+)",
+      "location": "2550 Patterson Ave SE, Grand Rapids, MI"
+    },
+    {
+      "venue": "Patterson Ice Center",
+      "title": "Stick & Puck (All Ages)",
+      "start": "2026-06-29T20:30:00-04:00",
+      "end": "2026-06-29T21:30:00-04:00",
+      "url": "https://www.pattersonicecenter.com/event/8350407/2026/6/29",
+      "source_id": "patterson-2026-6-29-Stick & Puck (All Ages)",
       "location": "2550 Patterson Ave SE, Grand Rapids, MI"
     },
     {
@@ -1226,6 +1298,15 @@
     },
     {
       "venue": "Patterson Ice Center",
+      "title": "Stick & Puck (All Ages)",
+      "start": "2026-07-27T21:00:00-04:00",
+      "end": "2026-07-27T22:00:00-04:00",
+      "url": "https://www.pattersonicecenter.com/event/8350407/2026/7/27",
+      "source_id": "patterson-2026-7-27-Stick & Puck (All Ages)",
+      "location": "2550 Patterson Ave SE, Grand Rapids, MI"
+    },
+    {
+      "venue": "Patterson Ice Center",
       "title": "Open Hockey",
       "start": "2026-07-28T09:00:00-04:00",
       "end": "2026-07-28T11:00:00-04:00",
@@ -1244,11 +1325,29 @@
     },
     {
       "venue": "Patterson Ice Center",
+      "title": "Stick & Puck (All Ages)",
+      "start": "2026-07-28T20:00:00-04:00",
+      "end": "2026-07-28T21:00:00-04:00",
+      "url": "https://www.pattersonicecenter.com/event/8350407/2026/7/28",
+      "source_id": "patterson-2026-7-28-Stick & Puck (All Ages)",
+      "location": "2550 Patterson Ave SE, Grand Rapids, MI"
+    },
+    {
+      "venue": "Patterson Ice Center",
       "title": "Open Hockey (55+)",
       "start": "2026-07-29T09:00:00-04:00",
       "end": "2026-07-29T11:00:00-04:00",
       "url": "https://www.pattersonicecenter.com/event/8350407/2026/7/29",
       "source_id": "patterson-2026-7-29-Open Hockey (55+)",
+      "location": "2550 Patterson Ave SE, Grand Rapids, MI"
+    },
+    {
+      "venue": "Patterson Ice Center",
+      "title": "Stick & Puck (All Ages)",
+      "start": "2026-07-29T20:30:00-04:00",
+      "end": "2026-07-29T21:30:00-04:00",
+      "url": "https://www.pattersonicecenter.com/event/8350407/2026/7/29",
+      "source_id": "patterson-2026-7-29-Stick & Puck (All Ages)",
       "location": "2550 Patterson Ave SE, Grand Rapids, MI"
     },
     {
@@ -1267,7 +1366,7 @@
       "title": "Stick & Pucks 12-1:50pm",
       "start": "2026-04-17T12:00:00-04:00",
       "end": "2026-04-17T13:50:00-04:00",
-      "url": "https://www.walkericeandfitness.com/Calendar.aspx?EID=9162&month=4&year=2026&day=16&calType=0",
+      "url": "https://www.walkericeandfitness.com/Calendar.aspx?EID=9162&month=4&year=2026&day=17&calType=0",
       "source_id": "walker-20260417-Stick & Pucks 12-1:50pm",
       "location": "4151 Remembrance Rd NW, Walker, MI"
     },
@@ -1276,7 +1375,7 @@
       "title": "Stick & Pucks 12-1:50pm",
       "start": "2026-04-24T12:00:00-04:00",
       "end": "2026-04-24T13:50:00-04:00",
-      "url": "https://www.walkericeandfitness.com/Calendar.aspx?EID=9163&month=4&year=2026&day=16&calType=0",
+      "url": "https://www.walkericeandfitness.com/Calendar.aspx?EID=9163&month=4&year=2026&day=17&calType=0",
       "source_id": "walker-20260424-Stick & Pucks 12-1:50pm",
       "location": "4151 Remembrance Rd NW, Walker, MI"
     }
@@ -1293,11 +1392,29 @@
     },
     {
       "venue": "Griff's IceHouse (Belknap)",
+      "title": "Sticks & Pucks (West Rink)",
+      "start": "2026-04-22T16:30:00-04:00",
+      "end": "2026-04-22T17:45:00-04:00",
+      "url": "https://www.griffsicehouse.com/ice-schedule-2/",
+      "source_id": "griffs_belknap-202604221630-sticks---pucks--west-rink-@gr-hockey-scraper",
+      "location": "30 Coldbrook St NE, Grand Rapids, MI"
+    },
+    {
+      "venue": "Griff's IceHouse (Belknap)",
       "title": "Sticks and Pucks (West Rink)",
       "start": "2026-04-26T16:00:00-04:00",
       "end": "2026-04-26T16:50:00-04:00",
       "url": "https://www.griffsicehouse.com/ice-schedule-2/",
       "source_id": "griffs_belknap-202604261600-sticks-and-pucks--west-rink-@gr-hockey-scraper",
+      "location": "30 Coldbrook St NE, Grand Rapids, MI"
+    },
+    {
+      "venue": "Griff's IceHouse (Belknap)",
+      "title": "Sticks & Pucks (West Rink)",
+      "start": "2026-04-29T16:30:00-04:00",
+      "end": "2026-04-29T17:45:00-04:00",
+      "url": "https://www.griffsicehouse.com/ice-schedule-2/",
+      "source_id": "griffs_belknap-202604291630-sticks---pucks--west-rink-@gr-hockey-scraper",
       "location": "30 Coldbrook St NE, Grand Rapids, MI"
     },
     {
@@ -1311,11 +1428,20 @@
     },
     {
       "venue": "Griff's IceHouse (Belknap)",
-      "title": "Sticks and Pucks (West Rink)",
-      "start": "2026-05-10T16:00:00-04:00",
-      "end": "2026-05-10T16:50:00-04:00",
+      "title": "Sticks & Pucks (West Rink)",
+      "start": "2026-05-06T16:30:00-04:00",
+      "end": "2026-05-06T17:45:00-04:00",
       "url": "https://www.griffsicehouse.com/ice-schedule-2/",
-      "source_id": "griffs_belknap-202605101600-sticks-and-pucks--west-rink-@gr-hockey-scraper",
+      "source_id": "griffs_belknap-202605061630-sticks---pucks--west-rink-@gr-hockey-scraper",
+      "location": "30 Coldbrook St NE, Grand Rapids, MI"
+    },
+    {
+      "venue": "Griff's IceHouse (Belknap)",
+      "title": "Sticks & Pucks (West Rink)",
+      "start": "2026-05-13T16:30:00-04:00",
+      "end": "2026-05-13T17:45:00-04:00",
+      "url": "https://www.griffsicehouse.com/ice-schedule-2/",
+      "source_id": "griffs_belknap-202605131630-sticks---pucks--west-rink-@gr-hockey-scraper",
       "location": "30 Coldbrook St NE, Grand Rapids, MI"
     },
     {
@@ -1416,15 +1542,6 @@
     }
   ],
   "holland": [
-    {
-      "venue": "Holland Ice Arena (Griff's West)",
-      "title": "Stick & Puck ALL AGES (Red Arena)",
-      "start": "2026-04-16T20:00:00-04:00",
-      "end": "2026-04-16T20:50:00-04:00",
-      "url": "https://www.griffswest.com/",
-      "source_id": "holland-202604162000-stick---puck-all-ages--red-arena-@gr-hockey-scraper",
-      "location": "4444 Holland Avenue, Holland, MI 49424"
-    },
     {
       "venue": "Holland Ice Arena (Griff's West)",
       "title": "Stick & Puck ALL AGES (Red Arena)",
@@ -1592,10 +1709,46 @@
     {
       "venue": "Lakeshore Sports Centre",
       "title": "Sticks and Pucks (North Rink)",
+      "start": "2026-04-23T18:45:00-04:00",
+      "end": "2026-04-23T20:05:00-04:00",
+      "url": "https://lakeshoresportscentre.net/",
+      "source_id": "lakeshore-202604231845-sticks-and-pucks--north-rink-@gr-hockey-scraper",
+      "location": "4470 Airline Road, Muskegon, MI 49444"
+    },
+    {
+      "venue": "Lakeshore Sports Centre",
+      "title": "Sticks and Pucks (North Rink)",
       "start": "2026-04-24T12:15:00-04:00",
       "end": "2026-04-24T13:35:00-04:00",
       "url": "https://lakeshoresportscentre.net/",
       "source_id": "lakeshore-202604241215-sticks-and-pucks--north-rink-@gr-hockey-scraper",
+      "location": "4470 Airline Road, Muskegon, MI 49444"
+    },
+    {
+      "venue": "Lakeshore Sports Centre",
+      "title": "Sticks and Pucks (North Rink)",
+      "start": "2026-04-24T18:00:00-04:00",
+      "end": "2026-04-24T19:20:00-04:00",
+      "url": "https://lakeshoresportscentre.net/",
+      "source_id": "lakeshore-202604241800-sticks-and-pucks--north-rink-@gr-hockey-scraper",
+      "location": "4470 Airline Road, Muskegon, MI 49444"
+    },
+    {
+      "venue": "Lakeshore Sports Centre",
+      "title": "Family Sticks and Pucks (South Rink)",
+      "start": "2026-04-25T10:30:00-04:00",
+      "end": "2026-04-25T11:50:00-04:00",
+      "url": "https://lakeshoresportscentre.net/",
+      "source_id": "lakeshore-202604251030-family-sticks-and-pucks--south-rink-@gr-hockey-scraper",
+      "location": "4470 Airline Road, Muskegon, MI 49444"
+    },
+    {
+      "venue": "Lakeshore Sports Centre",
+      "title": "Sticks and Pucks (North Rink)",
+      "start": "2026-04-25T11:30:00-04:00",
+      "end": "2026-04-25T12:50:00-04:00",
+      "url": "https://lakeshoresportscentre.net/",
+      "source_id": "lakeshore-202604251130-sticks-and-pucks--north-rink-@gr-hockey-scraper",
       "location": "4470 Airline Road, Muskegon, MI 49444"
     },
     {
