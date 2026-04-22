@@ -2,33 +2,6 @@
   "patterson": [
     {
       "venue": "Patterson Ice Center",
-      "title": "Open Hockey",
-      "start": "2026-04-21T09:00:00-04:00",
-      "end": "2026-04-21T11:00:00-04:00",
-      "url": "https://www.pattersonicecenter.com/event/8350407/2026/4/21",
-      "source_id": "patterson-2026-4-21-Open Hockey",
-      "location": "2550 Patterson Ave SE, Grand Rapids, MI"
-    },
-    {
-      "venue": "Patterson Ice Center",
-      "title": "Stick & Puck (All Ages)",
-      "start": "2026-04-21T16:00:00-04:00",
-      "end": "2026-04-21T17:00:00-04:00",
-      "url": "https://www.pattersonicecenter.com/event/8350407/2026/4/21",
-      "source_id": "patterson-2026-4-21-Stick & Puck (All Ages)",
-      "location": "2550 Patterson Ave SE, Grand Rapids, MI"
-    },
-    {
-      "venue": "Patterson Ice Center",
-      "title": "Stick & Puck (All Ages)",
-      "start": "2026-04-21T20:00:00-04:00",
-      "end": "2026-04-21T21:00:00-04:00",
-      "url": "https://www.pattersonicecenter.com/event/8350407/2026/4/21",
-      "source_id": "patterson-2026-4-21-Stick & Puck (All Ages)",
-      "location": "2550 Patterson Ave SE, Grand Rapids, MI"
-    },
-    {
-      "venue": "Patterson Ice Center",
       "title": "Open Hockey (55+)",
       "start": "2026-04-22T09:00:00-04:00",
       "end": "2026-04-22T11:00:00-04:00",
@@ -1330,7 +1303,7 @@
       "title": "Stick & Pucks 12-1:50pm",
       "start": "2026-04-24T12:00:00-04:00",
       "end": "2026-04-24T13:50:00-04:00",
-      "url": "https://www.walkericeandfitness.com/Calendar.aspx?EID=9163&month=4&year=2026&day=21&calType=0",
+      "url": "https://www.walkericeandfitness.com/Calendar.aspx?EID=9163&month=4&year=2026&day=22&calType=0",
       "source_id": "walker-20260424-Stick & Pucks 12-1:50pm",
       "location": "4151 Remembrance Rd NW, Walker, MI"
     },
@@ -1339,7 +1312,7 @@
       "title": "Stick & Pucks 12-1:50pm",
       "start": "2026-05-01T12:00:00-04:00",
       "end": "2026-05-01T13:50:00-04:00",
-      "url": "https://www.walkericeandfitness.com/Calendar.aspx?EID=9295&month=5&year=2026&day=21&calType=0",
+      "url": "https://www.walkericeandfitness.com/Calendar.aspx?EID=9295&month=5&year=2026&day=22&calType=0",
       "source_id": "walker-20260501-Stick & Pucks 12-1:50pm",
       "location": "4151 Remembrance Rd NW, Walker, MI"
     },
@@ -1348,7 +1321,7 @@
       "title": "Stick & Pucks 12-1:50pm",
       "start": "2026-05-08T12:00:00-04:00",
       "end": "2026-05-08T13:50:00-04:00",
-      "url": "https://www.walkericeandfitness.com/Calendar.aspx?EID=9296&month=5&year=2026&day=21&calType=0",
+      "url": "https://www.walkericeandfitness.com/Calendar.aspx?EID=9296&month=5&year=2026&day=22&calType=0",
       "source_id": "walker-20260508-Stick & Pucks 12-1:50pm",
       "location": "4151 Remembrance Rd NW, Walker, MI"
     },
@@ -1357,7 +1330,7 @@
       "title": "Stick & Pucks 12-1:50pm",
       "start": "2026-05-15T12:00:00-04:00",
       "end": "2026-05-15T13:50:00-04:00",
-      "url": "https://www.walkericeandfitness.com/Calendar.aspx?EID=9297&month=5&year=2026&day=21&calType=0",
+      "url": "https://www.walkericeandfitness.com/Calendar.aspx?EID=9297&month=5&year=2026&day=22&calType=0",
       "source_id": "walker-20260515-Stick & Pucks 12-1:50pm",
       "location": "4151 Remembrance Rd NW, Walker, MI"
     },
@@ -1366,7 +1339,7 @@
       "title": "Stick & Pucks 12-1:50pm",
       "start": "2026-05-22T12:00:00-04:00",
       "end": "2026-05-22T13:50:00-04:00",
-      "url": "https://www.walkericeandfitness.com/Calendar.aspx?EID=9298&month=5&year=2026&day=21&calType=0",
+      "url": "https://www.walkericeandfitness.com/Calendar.aspx?EID=9298&month=5&year=2026&day=22&calType=0",
       "source_id": "walker-20260522-Stick & Pucks 12-1:50pm",
       "location": "4151 Remembrance Rd NW, Walker, MI"
     },
@@ -1375,7 +1348,7 @@
       "title": "Stick & Pucks 12-1:50pm",
       "start": "2026-05-29T12:00:00-04:00",
       "end": "2026-05-29T13:50:00-04:00",
-      "url": "https://www.walkericeandfitness.com/Calendar.aspx?EID=9299&month=5&year=2026&day=21&calType=0",
+      "url": "https://www.walkericeandfitness.com/Calendar.aspx?EID=9299&month=5&year=2026&day=22&calType=0",
       "source_id": "walker-20260529-Stick & Pucks 12-1:50pm",
       "location": "4151 Remembrance Rd NW, Walker, MI"
     }
@@ -1567,6 +1540,60 @@
       "end": "2026-04-25T15:20:00-04:00",
       "url": "https://www.griffswest.com/",
       "source_id": "holland-202604251430-stick---puck-all-ages--red-arena-@gr-hockey-scraper",
+      "location": "4444 Holland Avenue, Holland, MI 49424"
+    },
+    {
+      "venue": "Holland Ice Arena (Griff's West)",
+      "title": "Stick & Puck ALL AGES (Red Arena)",
+      "start": "2026-04-29T19:00:00-04:00",
+      "end": "2026-04-29T19:50:00-04:00",
+      "url": "https://www.griffswest.com/",
+      "source_id": "holland-202604291900-stick---puck-all-ages--red-arena-@gr-hockey-scraper",
+      "location": "4444 Holland Avenue, Holland, MI 49424"
+    },
+    {
+      "venue": "Holland Ice Arena (Griff's West)",
+      "title": "Stick & Puck ALL AGES (Red Arena)",
+      "start": "2026-04-30T20:00:00-04:00",
+      "end": "2026-04-30T20:50:00-04:00",
+      "url": "https://www.griffswest.com/",
+      "source_id": "holland-202604302000-stick---puck-all-ages--red-arena-@gr-hockey-scraper",
+      "location": "4444 Holland Avenue, Holland, MI 49424"
+    },
+    {
+      "venue": "Holland Ice Arena (Griff's West)",
+      "title": "Stick & Puck ALL AGES (Red Arena)",
+      "start": "2026-05-01T20:00:00-04:00",
+      "end": "2026-05-01T20:50:00-04:00",
+      "url": "https://www.griffswest.com/",
+      "source_id": "holland-202605012000-stick---puck-all-ages--red-arena-@gr-hockey-scraper",
+      "location": "4444 Holland Avenue, Holland, MI 49424"
+    },
+    {
+      "venue": "Holland Ice Arena (Griff's West)",
+      "title": "Stick & Puck ALL AGES (Blue Arena)",
+      "start": "2026-05-08T20:00:00-04:00",
+      "end": "2026-05-08T20:50:00-04:00",
+      "url": "https://www.griffswest.com/",
+      "source_id": "holland-202605082000-stick---puck-all-ages--blue-arena-@gr-hockey-scraper",
+      "location": "4444 Holland Avenue, Holland, MI 49424"
+    },
+    {
+      "venue": "Holland Ice Arena (Griff's West)",
+      "title": "Stick & Puck ALL AGES (Blue Arena)",
+      "start": "2026-05-15T20:00:00-04:00",
+      "end": "2026-05-15T20:50:00-04:00",
+      "url": "https://www.griffswest.com/",
+      "source_id": "holland-202605152000-stick---puck-all-ages--blue-arena-@gr-hockey-scraper",
+      "location": "4444 Holland Avenue, Holland, MI 49424"
+    },
+    {
+      "venue": "Holland Ice Arena (Griff's West)",
+      "title": "Stick & Puck ALL AGES (Blue Arena)",
+      "start": "2026-05-22T20:00:00-04:00",
+      "end": "2026-05-22T20:50:00-04:00",
+      "url": "https://www.griffswest.com/",
+      "source_id": "holland-202605222000-stick---puck-all-ages--blue-arena-@gr-hockey-scraper",
       "location": "4444 Holland Avenue, Holland, MI 49424"
     }
   ],
