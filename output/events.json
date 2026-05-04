@@ -988,7 +988,7 @@
       "title": "Stick & Pucks 12-1:50pm",
       "start": "2026-05-08T12:00:00-04:00",
       "end": "2026-05-08T13:50:00-04:00",
-      "url": "https://www.walkericeandfitness.com/Calendar.aspx?EID=9296&month=5&year=2026&day=3&calType=0",
+      "url": "https://www.walkericeandfitness.com/Calendar.aspx?EID=9296&month=5&year=2026&day=4&calType=0",
       "source_id": "walker-20260508-Stick & Pucks 12-1:50pm",
       "location": "4151 Remembrance Rd NW, Walker, MI"
     },
@@ -997,7 +997,7 @@
       "title": "Stick & Pucks 12-1:50pm",
       "start": "2026-05-15T12:00:00-04:00",
       "end": "2026-05-15T13:50:00-04:00",
-      "url": "https://www.walkericeandfitness.com/Calendar.aspx?EID=9297&month=5&year=2026&day=3&calType=0",
+      "url": "https://www.walkericeandfitness.com/Calendar.aspx?EID=9297&month=5&year=2026&day=4&calType=0",
       "source_id": "walker-20260515-Stick & Pucks 12-1:50pm",
       "location": "4151 Remembrance Rd NW, Walker, MI"
     },
@@ -1006,7 +1006,7 @@
       "title": "Stick & Pucks 12-1:50pm",
       "start": "2026-05-22T12:00:00-04:00",
       "end": "2026-05-22T13:50:00-04:00",
-      "url": "https://www.walkericeandfitness.com/Calendar.aspx?EID=9298&month=5&year=2026&day=3&calType=0",
+      "url": "https://www.walkericeandfitness.com/Calendar.aspx?EID=9298&month=5&year=2026&day=4&calType=0",
       "source_id": "walker-20260522-Stick & Pucks 12-1:50pm",
       "location": "4151 Remembrance Rd NW, Walker, MI"
     },
@@ -1015,21 +1015,12 @@
       "title": "Stick & Pucks 12-1:50pm",
       "start": "2026-05-29T12:00:00-04:00",
       "end": "2026-05-29T13:50:00-04:00",
-      "url": "https://www.walkericeandfitness.com/Calendar.aspx?EID=9299&month=5&year=2026&day=3&calType=0",
+      "url": "https://www.walkericeandfitness.com/Calendar.aspx?EID=9299&month=5&year=2026&day=4&calType=0",
       "source_id": "walker-20260529-Stick & Pucks 12-1:50pm",
       "location": "4151 Remembrance Rd NW, Walker, MI"
     }
   ],
   "griffs_belknap": [
-    {
-      "venue": "Griff's IceHouse (Belknap)",
-      "title": "Sticks and Pucks (West Rink)",
-      "start": "2026-05-03T16:00:00-04:00",
-      "end": "2026-05-03T16:50:00-04:00",
-      "url": "https://www.griffsicehouse.com/ice-schedule-2/",
-      "source_id": "griffs_belknap-202605031600-sticks-and-pucks--west-rink-@gr-hockey-scraper",
-      "location": "30 Coldbrook St NE, Grand Rapids, MI"
-    },
     {
       "venue": "Griff's IceHouse (Belknap)",
       "title": "Sticks & Pucks (West Rink)",
@@ -1138,6 +1129,15 @@
       "end": "2026-05-27T15:50:00-04:00",
       "url": "https://schedule.bondsports.co/schedule/Hudsonville-Ice-Schedule",
       "source_id": "griffs_georgetown-202605271500-stick---puck--west-rink-@gr-hockey-scraper",
+      "location": "8500 48th Ave, Hudsonville, MI"
+    },
+    {
+      "venue": "Hudsonville Ice Arena",
+      "title": "Stick & Puck (West Rink)",
+      "start": "2026-06-03T15:00:00-04:00",
+      "end": "2026-06-03T15:50:00-04:00",
+      "url": "https://schedule.bondsports.co/schedule/Hudsonville-Ice-Schedule",
+      "source_id": "griffs_georgetown-202606031500-stick---puck--west-rink-@gr-hockey-scraper",
       "location": "8500 48th Ave, Hudsonville, MI"
     }
   ],
@@ -1265,33 +1265,6 @@
     }
   ],
   "lakeshore": [
-    {
-      "venue": "Lakeshore Sports Centre",
-      "title": "Sticks and Pucks (South Rink)",
-      "start": "2026-05-03T10:30:00-04:00",
-      "end": "2026-05-03T11:50:00-04:00",
-      "url": "https://lakeshoresportscentre.net/",
-      "source_id": "lakeshore-202605031030-sticks-and-pucks--south-rink-@gr-hockey-scraper",
-      "location": "4470 Airline Road, Muskegon, MI 49444"
-    },
-    {
-      "venue": "Lakeshore Sports Centre",
-      "title": "Family Sticks and Pucks (South Rink)",
-      "start": "2026-05-03T15:00:00-04:00",
-      "end": "2026-05-03T16:20:00-04:00",
-      "url": "https://lakeshoresportscentre.net/",
-      "source_id": "lakeshore-202605031500-family-sticks-and-pucks--south-rink-@gr-hockey-scraper",
-      "location": "4470 Airline Road, Muskegon, MI 49444"
-    },
-    {
-      "venue": "Lakeshore Sports Centre",
-      "title": "Sticks and Pucks (South Rink)",
-      "start": "2026-05-03T16:30:00-04:00",
-      "end": "2026-05-03T17:50:00-04:00",
-      "url": "https://lakeshoresportscentre.net/",
-      "source_id": "lakeshore-202605031630-sticks-and-pucks--south-rink-@gr-hockey-scraper",
-      "location": "4470 Airline Road, Muskegon, MI 49444"
-    },
     {
       "venue": "Lakeshore Sports Centre",
       "title": "Sticks and Pucks (South Rink)",
