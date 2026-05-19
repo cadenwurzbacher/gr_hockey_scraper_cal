@@ -2,15 +2,6 @@
   "patterson": [
     {
       "venue": "Patterson Ice Center",
-      "title": "Stick & Puck (14 & Up)",
-      "start": "2026-05-18T16:30:00-04:00",
-      "end": "2026-05-18T17:20:00-04:00",
-      "url": "https://www.pattersonicecenter.com/event/8350407/2026/5/18",
-      "source_id": "patterson-2026-5-18-Stick & Puck (14 & Up)",
-      "location": "2550 Patterson Ave SE, Grand Rapids, MI"
-    },
-    {
-      "venue": "Patterson Ice Center",
       "title": "Open Hockey",
       "start": "2026-05-19T09:00:00-04:00",
       "end": "2026-05-19T11:00:00-04:00",
@@ -1203,15 +1194,6 @@
     {
       "venue": "Holland Ice Arena (Griff's West)",
       "title": "Stick & Puck ALL AGES (Red Arena)",
-      "start": "2026-05-18T19:00:00-04:00",
-      "end": "2026-05-18T19:50:00-04:00",
-      "url": "https://www.griffswest.com/",
-      "source_id": "holland-202605181900-stick---puck-all-ages--red-arena-@gr-hockey-scraper",
-      "location": "4444 Holland Avenue, Holland, MI 49424"
-    },
-    {
-      "venue": "Holland Ice Arena (Griff's West)",
-      "title": "Stick & Puck ALL AGES (Red Arena)",
       "start": "2026-05-26T20:00:00-04:00",
       "end": "2026-05-26T20:50:00-04:00",
       "url": "https://www.griffswest.com/",
@@ -1230,19 +1212,19 @@
     {
       "venue": "Holland Ice Arena (Griff's West)",
       "title": "Stick & Puck ALL AGES (Red Arena)",
-      "start": "2026-06-04T18:00:00-04:00",
-      "end": "2026-06-04T18:50:00-04:00",
+      "start": "2026-06-02T18:00:00-04:00",
+      "end": "2026-06-02T18:50:00-04:00",
       "url": "https://www.griffswest.com/",
-      "source_id": "holland-202606041800-stick---puck-all-ages--red-arena-@gr-hockey-scraper",
+      "source_id": "holland-202606021800-stick---puck-all-ages--red-arena-@gr-hockey-scraper",
       "location": "4444 Holland Avenue, Holland, MI 49424"
     },
     {
       "venue": "Holland Ice Arena (Griff's West)",
       "title": "Stick & Puck ALL AGES (Red Arena)",
-      "start": "2026-06-11T18:00:00-04:00",
-      "end": "2026-06-11T18:50:00-04:00",
+      "start": "2026-06-04T18:00:00-04:00",
+      "end": "2026-06-04T18:50:00-04:00",
       "url": "https://www.griffswest.com/",
-      "source_id": "holland-202606111800-stick---puck-all-ages--red-arena-@gr-hockey-scraper",
+      "source_id": "holland-202606041800-stick---puck-all-ages--red-arena-@gr-hockey-scraper",
       "location": "4444 Holland Avenue, Holland, MI 49424"
     }
   ],
@@ -1268,10 +1250,19 @@
     {
       "venue": "Lakeshore Sports Centre",
       "title": "Sticks and Pucks (North Rink)",
-      "start": "2026-05-27T14:00:00-04:00",
-      "end": "2026-05-27T15:20:00-04:00",
+      "start": "2026-05-26T17:45:00-04:00",
+      "end": "2026-05-26T19:05:00-04:00",
       "url": "https://lakeshoresportscentre.net/",
-      "source_id": "lakeshore-202605271400-sticks-and-pucks--north-rink-@gr-hockey-scraper",
+      "source_id": "lakeshore-202605261745-sticks-and-pucks--north-rink-@gr-hockey-scraper",
+      "location": "4470 Airline Road, Muskegon, MI 49444"
+    },
+    {
+      "venue": "Lakeshore Sports Centre",
+      "title": "Sticks and Pucks (North Rink)",
+      "start": "2026-05-27T18:00:00-04:00",
+      "end": "2026-05-27T19:20:00-04:00",
+      "url": "https://lakeshoresportscentre.net/",
+      "source_id": "lakeshore-202605271800-sticks-and-pucks--north-rink-@gr-hockey-scraper",
       "location": "4470 Airline Road, Muskegon, MI 49444"
     },
     {
@@ -1281,6 +1272,15 @@
       "end": "2026-05-29T14:50:00-04:00",
       "url": "https://lakeshoresportscentre.net/",
       "source_id": "lakeshore-202605291330-sticks-and-pucks--north-rink-@gr-hockey-scraper",
+      "location": "4470 Airline Road, Muskegon, MI 49444"
+    },
+    {
+      "venue": "Lakeshore Sports Centre",
+      "title": "Family Sticks an Pucks (North Rink)",
+      "start": "2026-05-29T18:00:00-04:00",
+      "end": "2026-05-29T19:20:00-04:00",
+      "url": "https://lakeshoresportscentre.net/",
+      "source_id": "lakeshore-202605291800-family-sticks-an-pucks--north-rink-@gr-hockey-scraper",
       "location": "4470 Airline Road, Muskegon, MI 49444"
     }
   ]
