@@ -2,24 +2,6 @@
   "patterson": [
     {
       "venue": "Patterson Ice Center",
-      "title": "Stick & Puck (All Ages)",
-      "start": "2026-06-04T16:00:00-04:00",
-      "end": "2026-06-04T16:50:00-04:00",
-      "url": "https://www.pattersonicecenter.com/event/8350407/2026/6/4",
-      "source_id": "patterson-2026-6-4-Stick & Puck (All Ages)",
-      "location": "2550 Patterson Ave SE, Grand Rapids, MI"
-    },
-    {
-      "venue": "Patterson Ice Center",
-      "title": "Open Hockey",
-      "start": "2026-06-04T21:30:00-04:00",
-      "end": "2026-06-04T23:30:00-04:00",
-      "url": "https://www.pattersonicecenter.com/event/8350407/2026/6/4",
-      "source_id": "patterson-2026-6-4-Open Hockey",
-      "location": "2550 Patterson Ave SE, Grand Rapids, MI"
-    },
-    {
-      "venue": "Patterson Ice Center",
       "title": "Open Hockey",
       "start": "2026-06-05T09:00:00-04:00",
       "end": "2026-06-05T11:00:00-04:00",
@@ -750,15 +732,6 @@
     {
       "venue": "Cedar Rock Sportsplex",
       "title": "Stick & Puck      13+",
-      "start": "2026-06-04T16:30:00-04:00",
-      "end": "2026-06-04T17:50:00-04:00",
-      "url": "https://docs.google.com/spreadsheets/d/1rLaoKgECpzthOg7w9og17OZuN30uTvoiRX56jSo7DOA",
-      "source_id": "cedarrock-20260604-Stick & Puck      13",
-      "location": "4758 Cornfield Drive NE, Cedar Springs, MI 49319"
-    },
-    {
-      "venue": "Cedar Rock Sportsplex",
-      "title": "Stick & Puck      13+",
       "start": "2026-06-06T11:30:00-04:00",
       "end": "2026-06-06T12:50:00-04:00",
       "url": "https://docs.google.com/spreadsheets/d/1rLaoKgECpzthOg7w9og17OZuN30uTvoiRX56jSo7DOA",
@@ -821,15 +794,6 @@
     }
   ],
   "holland": [
-    {
-      "venue": "Holland Ice Arena (Griff's West)",
-      "title": "Stick & Puck ALL AGES (Red Arena)",
-      "start": "2026-06-04T18:00:00-04:00",
-      "end": "2026-06-04T18:50:00-04:00",
-      "url": "https://www.griffswest.com/",
-      "source_id": "holland-202606041800-stick---puck-all-ages--red-arena-@gr-hockey-scraper",
-      "location": "4444 Holland Avenue, Holland, MI 49424"
-    },
     {
       "venue": "Holland Ice Arena (Griff's West)",
       "title": "Stick & Puck ALL AGES (Red Arena)",
