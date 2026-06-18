@@ -186,14 +186,6 @@ SUMMARY:Stick & Puck ALL AGES (Red Arena) @ Holland Ice Arena (Griff's West)
 UID:holland-ice-arena-(g-202607071800-stick---puck-all-ages--red-arena-@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://lakeshoresportscentre.net/
-DTEND:20260711T010000Z
-LOCATION:4470 Airline Road\, Muskegon\, MI 49444
-DTSTART:20260710T233000Z
-SUMMARY:Sticks and Pucks (North Rink) @ Lakeshore Sports Centre
-UID:lakeshore-sports-cen-202607101930-sticks-and-pucks--north-rink-@gr-hockey-scraper
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://www.pattersonicecenter.com/event/8350407/2026/7/12
 DTEND:20260712T215000Z
 LOCATION:2550 Patterson Ave SE\, Grand Rapids\, MI
@@ -322,14 +314,6 @@ SUMMARY:Stick & Puck      13+ @ Cedar Rock Sportsplex
 UID:cedar-rock-sportsple-202606241800-stick---puck------13-@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://www.pattersonicecenter.com/event/8350407/2026/6/17
-DTEND:20260617T150000Z
-LOCATION:2550 Patterson Ave SE\, Grand Rapids\, MI
-DTSTART:20260617T130000Z
-SUMMARY:Open Hockey (55+) @ Patterson Ice Center
-UID:patterson-ice-center-202606170900-open-hockey--55--@gr-hockey-scraper
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://www.pattersonicecenter.com/event/8350407/2026/7/12
 DTEND:20260712T150000Z
 LOCATION:2550 Patterson Ave SE\, Grand Rapids\, MI
@@ -378,6 +362,14 @@ SUMMARY:Sticks and Pucks (North Rink) @ Lakeshore Sports Centre
 UID:lakeshore-sports-cen-202607141215-sticks-and-pucks--north-rink-@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://www.griffsicehouse.com/ice-schedule-2/
+DTEND:20260719T212000Z
+LOCATION:30 Coldbrook St NE\, Grand Rapids\, MI
+DTSTART:20260719T203000Z
+SUMMARY:Sticks & Pucks (West Rink) @ Griff's IceHouse (Belknap)
+UID:griff's-icehouse-(be-202607191630-sticks---pucks--west-rink-@gr-hockey-scraper
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://www.pattersonicecenter.com/event/8350407/2026/7/5
 DTEND:20260705T205000Z
 LOCATION:2550 Patterson Ave SE\, Grand Rapids\, MI
@@ -400,14 +392,6 @@ LOCATION:2550 Patterson Ave SE\, Grand Rapids\, MI
 DTSTART:20260912T130000Z
 SUMMARY:Open Hockey @ Patterson Ice Center
 UID:patterson-ice-center-202609120900-open-hockey@gr-hockey-scraper
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://schedule.bondsports.co/schedule/Hudsonville-Ice-Schedule
-DTEND:20260617T195000Z
-LOCATION:8500 48th Ave\, Hudsonville\, MI
-DTSTART:20260617T190000Z
-SUMMARY:Stick & Puck (West Rink) @ Hudsonville Ice Arena
-UID:hudsonville-ice-aren-202606171500-stick---puck--west-rink-@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://www.pattersonicecenter.com/event/8350407/2026/8/7
@@ -634,6 +618,14 @@ SUMMARY:Open Hockey @ Patterson Ice Center
 UID:patterson-ice-center-202608300900-open-hockey@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://schedule.bondsports.co/schedule/Hudsonville-Ice-Schedule
+DTEND:20260718T182000Z
+LOCATION:8500 48th Ave\, Hudsonville\, MI
+DTSTART:20260718T173000Z
+SUMMARY:Stick & Puck (East Rink) @ Hudsonville Ice Arena
+UID:hudsonville-ice-aren-202607181330-stick---puck--east-rink-@gr-hockey-scraper
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://www.pattersonicecenter.com/event/8350407/2026/7/9
 DTEND:20260709T212000Z
 LOCATION:2550 Patterson Ave SE\, Grand Rapids\, MI
@@ -728,14 +720,6 @@ LOCATION:2550 Patterson Ave SE\, Grand Rapids\, MI
 DTSTART:20260905T200000Z
 SUMMARY:Stick & Puck (14 & Up) @ Patterson Ice Center
 UID:patterson-ice-center-202609051600-stick---puck--14---up-@gr-hockey-scraper
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://lakeshoresportscentre.net/
-DTEND:20260710T233000Z
-LOCATION:4470 Airline Road\, Muskegon\, MI 49444
-DTSTART:20260710T220000Z
-SUMMARY:Family Sticks and Pucks (North Rink) @ Lakeshore Sports Centre
-UID:lakeshore-sports-cen-202607101800-family-sticks-and-pucks--north-rink-@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://www.pattersonicecenter.com/event/8350407/2026/7/17
