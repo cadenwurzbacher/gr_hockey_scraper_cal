@@ -620,15 +620,6 @@
     {
       "venue": "Hudsonville Ice Arena",
       "title": "Stick & Puck (West Rink)",
-      "start": "2026-06-18T16:00:00-04:00",
-      "end": "2026-06-18T16:50:00-04:00",
-      "url": "https://schedule.bondsports.co/schedule/Hudsonville-Ice-Schedule",
-      "source_id": "griffs_georgetown-202606181600-stick---puck--west-rink-@gr-hockey-scraper",
-      "location": "8500 48th Ave, Hudsonville, MI"
-    },
-    {
-      "venue": "Hudsonville Ice Arena",
-      "title": "Stick & Puck (West Rink)",
       "start": "2026-06-20T15:00:00-04:00",
       "end": "2026-06-20T15:50:00-04:00",
       "url": "https://schedule.bondsports.co/schedule/Hudsonville-Ice-Schedule",
@@ -704,15 +695,6 @@
     }
   ],
   "holland": [
-    {
-      "venue": "Holland Ice Arena (Griff's West)",
-      "title": "Stick & Puck ALL AGES (Red Arena)",
-      "start": "2026-06-18T18:00:00-04:00",
-      "end": "2026-06-18T18:50:00-04:00",
-      "url": "https://www.griffswest.com/",
-      "source_id": "holland-202606181800-stick---puck-all-ages--red-arena-@gr-hockey-scraper",
-      "location": "4444 Holland Avenue, Holland, MI 49424"
-    },
     {
       "venue": "Holland Ice Arena (Griff's West)",
       "title": "Steg's Stickhandling Camp (Red Arena)",
