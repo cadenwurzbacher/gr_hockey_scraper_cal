@@ -82,14 +82,6 @@ SUMMARY:Stick & Puck (14 & Up) @ Patterson Ice Center
 UID:patterson-ice-center-202608051600-stick---puck--14---up-@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://docs.google.com/spreadsheets/d/1rLaoKgECpzthOg7w9og17OZuN30uTvoiRX56jSo7DOA
-DTEND:20260619T232000Z
-LOCATION:4758 Cornfield Drive NE\, Cedar Springs\, MI 49319
-DTSTART:20260619T220000Z
-SUMMARY:Stick & Puck      13+ @ Cedar Rock Sportsplex
-UID:cedar-rock-sportsple-202606191800-stick---puck------13-@gr-hockey-scraper
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://www.pattersonicecenter.com/event/8350407/2026/8/16
 DTEND:20260816T150000Z
 LOCATION:2550 Patterson Ave SE\, Grand Rapids\, MI
@@ -130,14 +122,6 @@ SUMMARY:Stick & Puck (West Rink) @ Hudsonville Ice Arena
 UID:hudsonville-ice-aren-202606201500-stick---puck--west-rink-@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://www.griffswest.com/
-DTEND:20260716T225000Z
-LOCATION:4444 Holland Avenue\, Holland\, MI 49424
-DTSTART:20260716T220000Z
-SUMMARY:Stick & Puck ALL AGES (Red Arena) @ Holland Ice Arena (Griff's West)
-UID:holland-ice-arena-(g-202607161800-stick---puck-all-ages--red-arena-@gr-hockey-scraper
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://www.pattersonicecenter.com/event/8350407/2026/7/30
 DTEND:20260730T150000Z
 LOCATION:2550 Patterson Ave SE\, Grand Rapids\, MI
@@ -160,14 +144,6 @@ LOCATION:2550 Patterson Ave SE\, Grand Rapids\, MI
 DTSTART:20260907T190000Z
 SUMMARY:Stick & Puck (14 & Up) @ Patterson Ice Center
 UID:patterson-ice-center-202609071500-stick---puck--14---up-@gr-hockey-scraper
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://www.griffswest.com/
-DTEND:20260707T225000Z
-LOCATION:4444 Holland Avenue\, Holland\, MI 49424
-DTSTART:20260707T220000Z
-SUMMARY:Stick & Puck ALL AGES (Red Arena) @ Holland Ice Arena (Griff's West)
-UID:holland-ice-arena-(g-202607071800-stick---puck-all-ages--red-arena-@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://www.pattersonicecenter.com/event/8350407/2026/7/12
@@ -250,12 +226,12 @@ SUMMARY:Open Hockey (55+) @ Patterson Ice Center
 UID:patterson-ice-center-202607100900-open-hockey--55--@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://www.pattersonicecenter.com/event/8350407/2026/8/1
-DTEND:20260801T210000Z
-LOCATION:2550 Patterson Ave SE\, Grand Rapids\, MI
-DTSTART:20260801T200000Z
-SUMMARY:Stick & Puck (14 & Up) @ Patterson Ice Center
-UID:patterson-ice-center-202608011600-stick---puck--14---up-@gr-hockey-scraper
+DESCRIPTION:https://docs.google.com/spreadsheets/d/1rLaoKgECpzthOg7w9og17OZuN30uTvoiRX56jSo7DOA
+DTEND:20260622T225000Z
+LOCATION:4758 Cornfield Drive NE\, Cedar Springs\, MI 49319
+DTSTART:20260622T213000Z
+SUMMARY:Stick & Puck      13+ @ Cedar Rock Sportsplex
+UID:cedar-rock-sportsple-202606221730-stick---puck------13-@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://lakeshoresportscentre.net/
@@ -264,6 +240,14 @@ LOCATION:4470 Airline Road\, Muskegon\, MI 49444
 DTSTART:20260626T220000Z
 SUMMARY:Family Sticks and Pucks (North Rink) @ Lakeshore Sports Centre
 UID:lakeshore-sports-cen-202606261800-family-sticks-and-pucks--north-rink-@gr-hockey-scraper
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://www.pattersonicecenter.com/event/8350407/2026/8/1
+DTEND:20260801T210000Z
+LOCATION:2550 Patterson Ave SE\, Grand Rapids\, MI
+DTSTART:20260801T200000Z
+SUMMARY:Stick & Puck (14 & Up) @ Patterson Ice Center
+UID:patterson-ice-center-202608011600-stick---puck--14---up-@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://www.pattersonicecenter.com/event/8350407/2026/8/17
@@ -288,14 +272,6 @@ LOCATION:2550 Patterson Ave SE\, Grand Rapids\, MI
 DTSTART:20260809T130000Z
 SUMMARY:Open Hockey @ Patterson Ice Center
 UID:patterson-ice-center-202608090900-open-hockey@gr-hockey-scraper
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://docs.google.com/spreadsheets/d/1rLaoKgECpzthOg7w9og17OZuN30uTvoiRX56jSo7DOA
-DTEND:20260624T232000Z
-LOCATION:4758 Cornfield Drive NE\, Cedar Springs\, MI 49319
-DTSTART:20260624T220000Z
-SUMMARY:Stick & Puck      13+ @ Cedar Rock Sportsplex
-UID:cedar-rock-sportsple-202606241800-stick---puck------13-@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://www.pattersonicecenter.com/event/8350407/2026/7/12
@@ -458,14 +434,6 @@ SUMMARY:Open Hockey @ Patterson Ice Center
 UID:patterson-ice-center-202607050900-open-hockey@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://www.griffswest.com/
-DTEND:20260702T225000Z
-LOCATION:4444 Holland Avenue\, Holland\, MI 49424
-DTSTART:20260702T220000Z
-SUMMARY:Stick & Puck ALL AGES (Red Arena) @ Holland Ice Arena (Griff's West)
-UID:holland-ice-arena-(g-202607021800-stick---puck-all-ages--red-arena-@gr-hockey-scraper
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://www.pattersonicecenter.com/event/8350407/2026/7/1
 DTEND:20260701T210000Z
 LOCATION:2550 Patterson Ave SE\, Grand Rapids\, MI
@@ -504,14 +472,6 @@ LOCATION:2550 Patterson Ave SE\, Grand Rapids\, MI
 DTSTART:20260630T130000Z
 SUMMARY:Open Hockey @ Patterson Ice Center
 UID:patterson-ice-center-202606300900-open-hockey@gr-hockey-scraper
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://www.griffswest.com/
-DTEND:20260709T225000Z
-LOCATION:4444 Holland Avenue\, Holland\, MI 49424
-DTSTART:20260709T220000Z
-SUMMARY:Stick & Puck ALL AGES (Red Arena) @ Holland Ice Arena (Griff's West)
-UID:holland-ice-arena-(g-202607091800-stick---puck-all-ages--red-arena-@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://www.pattersonicecenter.com/event/8350407/2026/8/4
@@ -618,14 +578,6 @@ SUMMARY:Stick & Puck (14 & Up) @ Patterson Ice Center
 UID:patterson-ice-center-202607091630-stick---puck--14---up-@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://www.griffswest.com/
-DTEND:20260714T225000Z
-LOCATION:4444 Holland Avenue\, Holland\, MI 49424
-DTSTART:20260714T220000Z
-SUMMARY:Stick & Puck ALL AGES (Red Arena) @ Holland Ice Arena (Griff's West)
-UID:holland-ice-arena-(g-202607141800-stick---puck-all-ages--red-arena-@gr-hockey-scraper
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://www.pattersonicecenter.com/event/8350407/2026/8/10
 DTEND:20260810T150000Z
 LOCATION:2550 Patterson Ave SE\, Grand Rapids\, MI
@@ -640,14 +592,6 @@ LOCATION:2550 Patterson Ave SE\, Grand Rapids\, MI
 DTSTART:20260902T130000Z
 SUMMARY:Open Hockey @ Patterson Ice Center
 UID:patterson-ice-center-202609020900-open-hockey@gr-hockey-scraper
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://www.griffswest.com/
-DTEND:20260630T225000Z
-LOCATION:4444 Holland Avenue\, Holland\, MI 49424
-DTSTART:20260630T220000Z
-SUMMARY:Stick & Puck ALL AGES (Red Arena) @ Holland Ice Arena (Griff's West)
-UID:holland-ice-arena-(g-202606301800-stick---puck-all-ages--red-arena-@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://lakeshoresportscentre.net/
@@ -704,6 +648,14 @@ LOCATION:2550 Patterson Ave SE\, Grand Rapids\, MI
 DTSTART:20260905T200000Z
 SUMMARY:Stick & Puck (14 & Up) @ Patterson Ice Center
 UID:patterson-ice-center-202609051600-stick---puck--14---up-@gr-hockey-scraper
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://lakeshoresportscentre.net/
+DTEND:20260721T173500Z
+LOCATION:4470 Airline Road\, Muskegon\, MI 49444
+DTSTART:20260721T161500Z
+SUMMARY:Sticks and Pucks (North Rink) @ Lakeshore Sports Centre
+UID:lakeshore-sports-cen-202607211215-sticks-and-pucks--north-rink-@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://www.pattersonicecenter.com/event/8350407/2026/7/17
@@ -816,14 +768,6 @@ LOCATION:4470 Airline Road\, Muskegon\, MI 49444
 DTSTART:20260714T143000Z
 SUMMARY:Family Sticks and Pucks (North Rink) @ Lakeshore Sports Centre
 UID:lakeshore-sports-cen-202607141030-family-sticks-and-pucks--north-rink-@gr-hockey-scraper
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://www.pattersonicecenter.com/event/8350407/2026/6/19
-DTEND:20260619T150000Z
-LOCATION:2550 Patterson Ave SE\, Grand Rapids\, MI
-DTSTART:20260619T130000Z
-SUMMARY:Open Hockey @ Patterson Ice Center
-UID:patterson-ice-center-202606190900-open-hockey@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://www.pattersonicecenter.com/event/8350407/2026/7/3
