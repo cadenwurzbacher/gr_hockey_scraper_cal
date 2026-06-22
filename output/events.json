@@ -582,15 +582,6 @@
     {
       "venue": "Griff's IceHouse (Belknap)",
       "title": "Sticks & Pucks (West Rink)",
-      "start": "2026-06-21T16:30:00-04:00",
-      "end": "2026-06-21T17:20:00-04:00",
-      "url": "https://www.griffsicehouse.com/ice-schedule-2/",
-      "source_id": "griffs_belknap-202606211630-sticks---pucks--west-rink-@gr-hockey-scraper",
-      "location": "30 Coldbrook St NE, Grand Rapids, MI"
-    },
-    {
-      "venue": "Griff's IceHouse (Belknap)",
-      "title": "Sticks & Pucks (West Rink)",
       "start": "2026-06-28T16:30:00-04:00",
       "end": "2026-06-28T17:20:00-04:00",
       "url": "https://www.griffsicehouse.com/ice-schedule-2/",
@@ -651,6 +642,15 @@
       "end": "2026-07-18T14:20:00-04:00",
       "url": "https://schedule.bondsports.co/schedule/Hudsonville-Ice-Schedule",
       "source_id": "griffs_georgetown-202607181330-stick---puck--east-rink-@gr-hockey-scraper",
+      "location": "8500 48th Ave, Hudsonville, MI"
+    },
+    {
+      "venue": "Hudsonville Ice Arena",
+      "title": "Stick & Puck (West Rink)",
+      "start": "2026-07-22T15:00:00-04:00",
+      "end": "2026-07-22T15:50:00-04:00",
+      "url": "https://schedule.bondsports.co/schedule/Hudsonville-Ice-Schedule",
+      "source_id": "griffs_georgetown-202607221500-stick---puck--west-rink-@gr-hockey-scraper",
       "location": "8500 48th Ave, Hudsonville, MI"
     }
   ],
@@ -720,6 +720,42 @@
       "end": "2026-06-25T18:50:00-04:00",
       "url": "https://www.griffswest.com/",
       "source_id": "holland-202606251800-stick---puck-all-ages--red-arena-@gr-hockey-scraper",
+      "location": "4444 Holland Avenue, Holland, MI 49424"
+    },
+    {
+      "venue": "Holland Ice Arena (Griff's West)",
+      "title": "Stick & Puck ALL AGES (Red Arena)",
+      "start": "2026-06-30T18:00:00-04:00",
+      "end": "2026-06-30T18:50:00-04:00",
+      "url": "https://www.griffswest.com/",
+      "source_id": "holland-202606301800-stick---puck-all-ages--red-arena-@gr-hockey-scraper",
+      "location": "4444 Holland Avenue, Holland, MI 49424"
+    },
+    {
+      "venue": "Holland Ice Arena (Griff's West)",
+      "title": "Stick & Puck ALL AGES (Red Arena)",
+      "start": "2026-07-02T18:00:00-04:00",
+      "end": "2026-07-02T18:50:00-04:00",
+      "url": "https://www.griffswest.com/",
+      "source_id": "holland-202607021800-stick---puck-all-ages--red-arena-@gr-hockey-scraper",
+      "location": "4444 Holland Avenue, Holland, MI 49424"
+    },
+    {
+      "venue": "Holland Ice Arena (Griff's West)",
+      "title": "Stick & Puck ALL AGES (Red Arena)",
+      "start": "2026-07-07T18:00:00-04:00",
+      "end": "2026-07-07T18:50:00-04:00",
+      "url": "https://www.griffswest.com/",
+      "source_id": "holland-202607071800-stick---puck-all-ages--red-arena-@gr-hockey-scraper",
+      "location": "4444 Holland Avenue, Holland, MI 49424"
+    },
+    {
+      "venue": "Holland Ice Arena (Griff's West)",
+      "title": "Stick & Puck ALL AGES (Red Arena)",
+      "start": "2026-07-09T18:00:00-04:00",
+      "end": "2026-07-09T18:50:00-04:00",
+      "url": "https://www.griffswest.com/",
+      "source_id": "holland-202607091800-stick---puck-all-ages--red-arena-@gr-hockey-scraper",
       "location": "4444 Holland Avenue, Holland, MI 49424"
     }
   ],

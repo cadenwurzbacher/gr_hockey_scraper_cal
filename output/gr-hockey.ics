@@ -50,14 +50,6 @@ SUMMARY:Stick & Puck (14 & Up) @ Patterson Ice Center
 UID:patterson-ice-center-202609091630-stick---puck--14---up-@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://www.griffsicehouse.com/ice-schedule-2/
-DTEND:20260621T212000Z
-LOCATION:30 Coldbrook St NE\, Grand Rapids\, MI
-DTSTART:20260621T203000Z
-SUMMARY:Sticks & Pucks (West Rink) @ Griff's IceHouse (Belknap)
-UID:griff's-icehouse-(be-202606211630-sticks---pucks--west-rink-@gr-hockey-scraper
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://www.pattersonicecenter.com/event/8350407/2026/7/4
 DTEND:20260705T033000Z
 LOCATION:2550 Patterson Ave SE\, Grand Rapids\, MI
@@ -136,6 +128,14 @@ LOCATION:2550 Patterson Ave SE\, Grand Rapids\, MI
 DTSTART:20260907T190000Z
 SUMMARY:Stick & Puck (14 & Up) @ Patterson Ice Center
 UID:patterson-ice-center-202609071500-stick---puck--14---up-@gr-hockey-scraper
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://www.griffswest.com/
+DTEND:20260707T225000Z
+LOCATION:4444 Holland Avenue\, Holland\, MI 49424
+DTSTART:20260707T220000Z
+SUMMARY:Stick & Puck ALL AGES (Red Arena) @ Holland Ice Arena (Griff's West)
+UID:holland-ice-arena-(g-202607071800-stick---puck-all-ages--red-arena-@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://www.pattersonicecenter.com/event/8350407/2026/7/12
@@ -426,6 +426,14 @@ SUMMARY:Open Hockey @ Patterson Ice Center
 UID:patterson-ice-center-202607050900-open-hockey@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://www.griffswest.com/
+DTEND:20260702T225000Z
+LOCATION:4444 Holland Avenue\, Holland\, MI 49424
+DTSTART:20260702T220000Z
+SUMMARY:Stick & Puck ALL AGES (Red Arena) @ Holland Ice Arena (Griff's West)
+UID:holland-ice-arena-(g-202607021800-stick---puck-all-ages--red-arena-@gr-hockey-scraper
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://www.pattersonicecenter.com/event/8350407/2026/7/1
 DTEND:20260701T210000Z
 LOCATION:2550 Patterson Ave SE\, Grand Rapids\, MI
@@ -464,6 +472,14 @@ LOCATION:2550 Patterson Ave SE\, Grand Rapids\, MI
 DTSTART:20260630T130000Z
 SUMMARY:Open Hockey @ Patterson Ice Center
 UID:patterson-ice-center-202606300900-open-hockey@gr-hockey-scraper
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://www.griffswest.com/
+DTEND:20260709T225000Z
+LOCATION:4444 Holland Avenue\, Holland\, MI 49424
+DTSTART:20260709T220000Z
+SUMMARY:Stick & Puck ALL AGES (Red Arena) @ Holland Ice Arena (Griff's West)
+UID:holland-ice-arena-(g-202607091800-stick---puck-all-ages--red-arena-@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://www.pattersonicecenter.com/event/8350407/2026/8/4
@@ -578,12 +594,28 @@ SUMMARY:Open Hockey (55+) @ Patterson Ice Center
 UID:patterson-ice-center-202608100900-open-hockey--55--@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://schedule.bondsports.co/schedule/Hudsonville-Ice-Schedule
+DTEND:20260722T195000Z
+LOCATION:8500 48th Ave\, Hudsonville\, MI
+DTSTART:20260722T190000Z
+SUMMARY:Stick & Puck (West Rink) @ Hudsonville Ice Arena
+UID:hudsonville-ice-aren-202607221500-stick---puck--west-rink-@gr-hockey-scraper
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://www.pattersonicecenter.com/event/8350407/2026/9/2
 DTEND:20260902T150000Z
 LOCATION:2550 Patterson Ave SE\, Grand Rapids\, MI
 DTSTART:20260902T130000Z
 SUMMARY:Open Hockey @ Patterson Ice Center
 UID:patterson-ice-center-202609020900-open-hockey@gr-hockey-scraper
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://www.griffswest.com/
+DTEND:20260630T225000Z
+LOCATION:4444 Holland Avenue\, Holland\, MI 49424
+DTSTART:20260630T220000Z
+SUMMARY:Stick & Puck ALL AGES (Red Arena) @ Holland Ice Arena (Griff's West)
+UID:holland-ice-arena-(g-202606301800-stick---puck-all-ages--red-arena-@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://lakeshoresportscentre.net/
