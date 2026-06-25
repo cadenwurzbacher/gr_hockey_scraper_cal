@@ -2,6 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:https://schedule.bondsports.co/schedule/Hudsonville-Ice-Schedule
+DTEND:20260715T195000Z
+LOCATION:8500 48th Ave\, Hudsonville\, MI
+DTSTART:20260715T190000Z
+SUMMARY:Roller Stick & Puck - Wed - 03:00 pm (West Rink) @ Hudsonville Ice Arena
+UID:hudsonville-ice-aren-202607151500-roller-stick---puck---wed---03-00-pm--we@gr-hockey-scraper
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://www.pattersonicecenter.com/event/8350407/2026/7/14
 DTEND:20260714T195000Z
 LOCATION:2550 Patterson Ave SE\, Grand Rapids\, MI
@@ -18,6 +26,14 @@ SUMMARY:Sticks and Pucks (North Rink) @ Lakeshore Sports Centre
 UID:lakeshore-sports-cen-202607071215-sticks-and-pucks--north-rink-@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://schedule.bondsports.co/schedule/Hudsonville-Ice-Schedule
+DTEND:20260725T212000Z
+LOCATION:8500 48th Ave\, Hudsonville\, MI
+DTSTART:20260725T203000Z
+SUMMARY:Stick & Puck (East Rink) @ Hudsonville Ice Arena
+UID:hudsonville-ice-aren-202607251630-stick---puck--east-rink-@gr-hockey-scraper
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://www.pattersonicecenter.com/event/8350407/2026/8/19
 DTEND:20260819T150000Z
 LOCATION:2550 Patterson Ave SE\, Grand Rapids\, MI
@@ -32,6 +48,14 @@ LOCATION:4470 Airline Road\, Muskegon\, MI 49444
 DTSTART:20260702T161500Z
 SUMMARY:Sticks and Pucks (North Rink) @ Lakeshore Sports Centre
 UID:lakeshore-sports-cen-202607021215-sticks-and-pucks--north-rink-@gr-hockey-scraper
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://schedule.bondsports.co/schedule/Hudsonville-Ice-Schedule
+DTEND:20260708T195000Z
+LOCATION:8500 48th Ave\, Hudsonville\, MI
+DTSTART:20260708T190000Z
+SUMMARY:Roller Stick & Puck - Wed - 03:00 pm (West Rink) @ Hudsonville Ice Arena
+UID:hudsonville-ice-aren-202607081500-roller-stick---puck---wed---03-00-pm--we@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://www.pattersonicecenter.com/event/8350407/2026/9/9
@@ -184,6 +208,14 @@ LOCATION:2550 Patterson Ave SE\, Grand Rapids\, MI
 DTSTART:20260930T130000Z
 SUMMARY:Open Hockey @ Patterson Ice Center
 UID:patterson-ice-center-202609300900-open-hockey@gr-hockey-scraper
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://schedule.bondsports.co/schedule/Hudsonville-Ice-Schedule
+DTEND:20260711T165000Z
+LOCATION:8500 48th Ave\, Hudsonville\, MI
+DTSTART:20260711T160000Z
+SUMMARY:Roller Stick & Puck - Sat - 12:00 pm (West Rink) @ Hudsonville Ice Arena
+UID:hudsonville-ice-aren-202607111200-roller-stick---puck---sat---12-00-pm--we@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://www.pattersonicecenter.com/event/8350407/2026/7/10
@@ -410,12 +442,12 @@ SUMMARY:Open Hockey @ Patterson Ice Center
 UID:patterson-ice-center-202607160900-open-hockey@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://www.griffswest.com/
-DTEND:20260624T170000Z
-LOCATION:4444 Holland Avenue\, Holland\, MI 49424
-DTSTART:20260624T150000Z
-SUMMARY:Steg's Stickhandling Camp (Red Arena) @ Holland Ice Arena (Griff's West)
-UID:holland-ice-arena-(g-202606241100-steg-s-stickhandling-camp--red-arena-@gr-hockey-scraper
+DESCRIPTION:https://schedule.bondsports.co/schedule/Hudsonville-Ice-Schedule
+DTEND:20260718T182000Z
+LOCATION:8500 48th Ave\, Hudsonville\, MI
+DTSTART:20260718T173000Z
+SUMMARY:Roller Stick & Puck - Sat - 12:00 pm (West Rink) @ Hudsonville Ice Arena
+UID:hudsonville-ice-aren-202607181330-roller-stick---puck---sat---12-00-pm--we@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://www.pattersonicecenter.com/event/8350407/2026/9/4
@@ -546,20 +578,20 @@ SUMMARY:Open Hockey (55+) @ Patterson Ice Center
 UID:patterson-ice-center-202608100900-open-hockey--55--@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://schedule.bondsports.co/schedule/Hudsonville-Ice-Schedule
-DTEND:20260722T195000Z
-LOCATION:8500 48th Ave\, Hudsonville\, MI
-DTSTART:20260722T190000Z
-SUMMARY:Stick & Puck (West Rink) @ Hudsonville Ice Arena
-UID:hudsonville-ice-aren-202607221500-stick---puck--west-rink-@gr-hockey-scraper
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://www.pattersonicecenter.com/event/8350407/2026/9/2
 DTEND:20260902T150000Z
 LOCATION:2550 Patterson Ave SE\, Grand Rapids\, MI
 DTSTART:20260902T130000Z
 SUMMARY:Open Hockey @ Patterson Ice Center
 UID:patterson-ice-center-202609020900-open-hockey@gr-hockey-scraper
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://schedule.bondsports.co/schedule/Hudsonville-Ice-Schedule
+DTEND:20260722T195000Z
+LOCATION:8500 48th Ave\, Hudsonville\, MI
+DTSTART:20260722T190000Z
+SUMMARY:Stick & Puck (East Rink) @ Hudsonville Ice Arena
+UID:hudsonville-ice-aren-202607221500-stick---puck--east-rink-@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://www.pattersonicecenter.com/event/8350407/2026/9/17
@@ -634,6 +666,14 @@ SUMMARY:Family Sticks and Pucks (North Rink) @ Lakeshore Sports Centre
 UID:lakeshore-sports-cen-202607031800-family-sticks-and-pucks--north-rink-@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://www.griffsicehouse.com/ice-schedule-2/
+DTEND:20260726T212000Z
+LOCATION:30 Coldbrook St NE\, Grand Rapids\, MI
+DTSTART:20260726T203000Z
+SUMMARY:Sticks & Pucks (West Rink) @ Griff's IceHouse (Belknap)
+UID:griff's-icehouse-(be-202607261630-sticks---pucks--west-rink-@gr-hockey-scraper
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://www.pattersonicecenter.com/event/8350407/2026/9/2
 DTEND:20260902T205000Z
 LOCATION:2550 Patterson Ave SE\, Grand Rapids\, MI
@@ -691,11 +731,11 @@ UID:hudsonville-ice-aren-202607081500-stick---puck--east-rink-@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://schedule.bondsports.co/schedule/Hudsonville-Ice-Schedule
-DTEND:20260624T195000Z
+DTEND:20260722T195000Z
 LOCATION:8500 48th Ave\, Hudsonville\, MI
-DTSTART:20260624T190000Z
-SUMMARY:Stick & Puck (West Rink) @ Hudsonville Ice Arena
-UID:hudsonville-ice-aren-202606241500-stick---puck--west-rink-@gr-hockey-scraper
+DTSTART:20260722T190000Z
+SUMMARY:Roller Stick & Puck - Wed - 03:00 pm (West Rink) @ Hudsonville Ice Arena
+UID:hudsonville-ice-aren-202607221500-roller-stick---puck---wed---03-00-pm--we@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://www.pattersonicecenter.com/event/8350407/2026/8/12
