@@ -2,15 +2,6 @@
   "patterson": [
     {
       "venue": "Patterson Ice Center",
-      "title": "Stick & Puck (All Ages)",
-      "start": "2026-07-08T16:00:00-04:00",
-      "end": "2026-07-08T16:50:00-04:00",
-      "url": "https://www.pattersonicecenter.com/event/8350407/2026/7/8",
-      "source_id": "patterson-2026-7-8-Stick & Puck (All Ages)",
-      "location": "2550 Patterson Ave SE, Grand Rapids, MI"
-    },
-    {
-      "venue": "Patterson Ice Center",
       "title": "Open Hockey",
       "start": "2026-07-09T09:00:00-04:00",
       "end": "2026-07-09T11:00:00-04:00",
@@ -506,27 +497,18 @@
       "url": "https://www.griffsicehouse.com/ice-schedule-2/",
       "source_id": "griffs_belknap-202608021630-sticks---pucks--west-rink-@gr-hockey-scraper",
       "location": "30 Coldbrook St NE, Grand Rapids, MI"
+    },
+    {
+      "venue": "Griff's IceHouse (Belknap)",
+      "title": "Sticks & Pucks (West Rink)",
+      "start": "2026-08-09T16:30:00-04:00",
+      "end": "2026-08-09T17:20:00-04:00",
+      "url": "https://www.griffsicehouse.com/ice-schedule-2/",
+      "source_id": "griffs_belknap-202608091630-sticks---pucks--west-rink-@gr-hockey-scraper",
+      "location": "30 Coldbrook St NE, Grand Rapids, MI"
     }
   ],
   "griffs_georgetown": [
-    {
-      "venue": "Hudsonville Ice Arena",
-      "title": "Stick & Puck (East Rink)",
-      "start": "2026-07-08T15:00:00-04:00",
-      "end": "2026-07-08T15:50:00-04:00",
-      "url": "https://schedule.bondsports.co/schedule/Hudsonville-Ice-Schedule",
-      "source_id": "griffs_georgetown-202607081500-stick---puck--east-rink-@gr-hockey-scraper",
-      "location": "8500 48th Ave, Hudsonville, MI"
-    },
-    {
-      "venue": "Hudsonville Ice Arena",
-      "title": "Roller Stick & Puck - Wed - 03:00 pm (West Rink)",
-      "start": "2026-07-08T15:00:00-04:00",
-      "end": "2026-07-08T15:50:00-04:00",
-      "url": "https://schedule.bondsports.co/schedule/Hudsonville-Ice-Schedule",
-      "source_id": "griffs_georgetown-202607081500-roller-stick---puck---wed---03-00-pm--we@gr-hockey-scraper",
-      "location": "8500 48th Ave, Hudsonville, MI"
-    },
     {
       "venue": "Hudsonville Ice Arena",
       "title": "Stick & Puck (East Rink)",
@@ -643,6 +625,15 @@
       "url": "https://schedule.bondsports.co/schedule/Hudsonville-Ice-Schedule",
       "source_id": "griffs_georgetown-202608051500-roller-stick---puck---wed---03-00-pm--we@gr-hockey-scraper",
       "location": "8500 48th Ave, Hudsonville, MI"
+    },
+    {
+      "venue": "Hudsonville Ice Arena",
+      "title": "Roller Stick & Puck - Sat - 12:00 pm (West Rink)",
+      "start": "2026-08-08T12:00:00-04:00",
+      "end": "2026-08-08T12:50:00-04:00",
+      "url": "https://schedule.bondsports.co/schedule/Hudsonville-Ice-Schedule",
+      "source_id": "griffs_georgetown-202608081200-roller-stick---puck---sat---12-00-pm--we@gr-hockey-scraper",
+      "location": "8500 48th Ave, Hudsonville, MI"
     }
   ],
   "southside": [],
@@ -674,6 +665,132 @@
       "end": "2026-07-16T18:50:00-04:00",
       "url": "https://www.griffswest.com/",
       "source_id": "holland-202607161800-stick---puck-all-ages--red-arena-@gr-hockey-scraper",
+      "location": "4444 Holland Avenue, Holland, MI 49424"
+    },
+    {
+      "venue": "Holland Ice Arena (Griff's West)",
+      "title": "Stick & Puck ALL AGES (Red Arena)",
+      "start": "2026-07-21T18:00:00-04:00",
+      "end": "2026-07-21T18:50:00-04:00",
+      "url": "https://www.griffswest.com/",
+      "source_id": "holland-202607211800-stick---puck-all-ages--red-arena-@gr-hockey-scraper",
+      "location": "4444 Holland Avenue, Holland, MI 49424"
+    },
+    {
+      "venue": "Holland Ice Arena (Griff's West)",
+      "title": "Stick & Puck ALL AGES (Red Arena)",
+      "start": "2026-07-23T18:00:00-04:00",
+      "end": "2026-07-23T18:50:00-04:00",
+      "url": "https://www.griffswest.com/",
+      "source_id": "holland-202607231800-stick---puck-all-ages--red-arena-@gr-hockey-scraper",
+      "location": "4444 Holland Avenue, Holland, MI 49424"
+    },
+    {
+      "venue": "Holland Ice Arena (Griff's West)",
+      "title": "Stick & Puck ALL AGES (Red Arena)",
+      "start": "2026-07-28T18:00:00-04:00",
+      "end": "2026-07-28T18:50:00-04:00",
+      "url": "https://www.griffswest.com/",
+      "source_id": "holland-202607281800-stick---puck-all-ages--red-arena-@gr-hockey-scraper",
+      "location": "4444 Holland Avenue, Holland, MI 49424"
+    },
+    {
+      "venue": "Holland Ice Arena (Griff's West)",
+      "title": "Stick & Puck ALL AGES (Red Arena)",
+      "start": "2026-07-30T18:00:00-04:00",
+      "end": "2026-07-30T18:50:00-04:00",
+      "url": "https://www.griffswest.com/",
+      "source_id": "holland-202607301800-stick---puck-all-ages--red-arena-@gr-hockey-scraper",
+      "location": "4444 Holland Avenue, Holland, MI 49424"
+    },
+    {
+      "venue": "Holland Ice Arena (Griff's West)",
+      "title": "Steg's Stickhandling & Skating Day Camp (Red Arena)",
+      "start": "2026-08-03T09:00:00-04:00",
+      "end": "2026-08-03T10:00:00-04:00",
+      "url": "https://www.griffswest.com/",
+      "source_id": "holland-202608030900-steg-s-stickhandling---skating-day-camp-@gr-hockey-scraper",
+      "location": "4444 Holland Avenue, Holland, MI 49424"
+    },
+    {
+      "venue": "Holland Ice Arena (Griff's West)",
+      "title": "Steg's Stickhandling & Skating Day Camp (Red Arena)",
+      "start": "2026-08-03T13:00:00-04:00",
+      "end": "2026-08-03T14:00:00-04:00",
+      "url": "https://www.griffswest.com/",
+      "source_id": "holland-202608031300-steg-s-stickhandling---skating-day-camp-@gr-hockey-scraper",
+      "location": "4444 Holland Avenue, Holland, MI 49424"
+    },
+    {
+      "venue": "Holland Ice Arena (Griff's West)",
+      "title": "Steg's Stickhandling & Skating Day Camp (Red Arena)",
+      "start": "2026-08-04T09:00:00-04:00",
+      "end": "2026-08-04T10:00:00-04:00",
+      "url": "https://www.griffswest.com/",
+      "source_id": "holland-202608040900-steg-s-stickhandling---skating-day-camp-@gr-hockey-scraper",
+      "location": "4444 Holland Avenue, Holland, MI 49424"
+    },
+    {
+      "venue": "Holland Ice Arena (Griff's West)",
+      "title": "Steg's Stickhandling & Skating Day Camp (Red Arena)",
+      "start": "2026-08-04T13:00:00-04:00",
+      "end": "2026-08-04T14:00:00-04:00",
+      "url": "https://www.griffswest.com/",
+      "source_id": "holland-202608041300-steg-s-stickhandling---skating-day-camp-@gr-hockey-scraper",
+      "location": "4444 Holland Avenue, Holland, MI 49424"
+    },
+    {
+      "venue": "Holland Ice Arena (Griff's West)",
+      "title": "Stick & Puck ALL AGES (Red Arena)",
+      "start": "2026-08-04T18:00:00-04:00",
+      "end": "2026-08-04T18:50:00-04:00",
+      "url": "https://www.griffswest.com/",
+      "source_id": "holland-202608041800-stick---puck-all-ages--red-arena-@gr-hockey-scraper",
+      "location": "4444 Holland Avenue, Holland, MI 49424"
+    },
+    {
+      "venue": "Holland Ice Arena (Griff's West)",
+      "title": "Steg's Stickhandling & Skating Day Camp (Red Arena)",
+      "start": "2026-08-05T09:00:00-04:00",
+      "end": "2026-08-05T10:00:00-04:00",
+      "url": "https://www.griffswest.com/",
+      "source_id": "holland-202608050900-steg-s-stickhandling---skating-day-camp-@gr-hockey-scraper",
+      "location": "4444 Holland Avenue, Holland, MI 49424"
+    },
+    {
+      "venue": "Holland Ice Arena (Griff's West)",
+      "title": "Steg's Stickhandling & Skating Day Camp (Red Arena)",
+      "start": "2026-08-05T13:00:00-04:00",
+      "end": "2026-08-05T14:00:00-04:00",
+      "url": "https://www.griffswest.com/",
+      "source_id": "holland-202608051300-steg-s-stickhandling---skating-day-camp-@gr-hockey-scraper",
+      "location": "4444 Holland Avenue, Holland, MI 49424"
+    },
+    {
+      "venue": "Holland Ice Arena (Griff's West)",
+      "title": "Steg's Stickhandling & Skating Day Camp (Red Arena)",
+      "start": "2026-08-06T09:00:00-04:00",
+      "end": "2026-08-06T10:00:00-04:00",
+      "url": "https://www.griffswest.com/",
+      "source_id": "holland-202608060900-steg-s-stickhandling---skating-day-camp-@gr-hockey-scraper",
+      "location": "4444 Holland Avenue, Holland, MI 49424"
+    },
+    {
+      "venue": "Holland Ice Arena (Griff's West)",
+      "title": "Steg's Stickhandling & Skating Day Camp (Red Arena)",
+      "start": "2026-08-06T13:00:00-04:00",
+      "end": "2026-08-06T14:00:00-04:00",
+      "url": "https://www.griffswest.com/",
+      "source_id": "holland-202608061300-steg-s-stickhandling---skating-day-camp-@gr-hockey-scraper",
+      "location": "4444 Holland Avenue, Holland, MI 49424"
+    },
+    {
+      "venue": "Holland Ice Arena (Griff's West)",
+      "title": "Stick & Puck ALL AGES (Red Arena)",
+      "start": "2026-08-06T18:00:00-04:00",
+      "end": "2026-08-06T18:50:00-04:00",
+      "url": "https://www.griffswest.com/",
+      "source_id": "holland-202608061800-stick---puck-all-ages--red-arena-@gr-hockey-scraper",
       "location": "4444 Holland Avenue, Holland, MI 49424"
     }
   ],
