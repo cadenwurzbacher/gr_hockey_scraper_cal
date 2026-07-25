@@ -676,90 +676,9 @@
       "url": "https://www.griffswest.com/",
       "source_id": "holland-202608031300-steg-s-stickhandling---skating-day-camp-@gr-hockey-scraper",
       "location": "4444 Holland Avenue, Holland, MI 49424"
-    },
-    {
-      "venue": "Holland Ice Arena (Griff's West)",
-      "title": "Steg's Stickhandling & Skating Day Camp (Red Arena)",
-      "start": "2026-08-04T09:00:00-04:00",
-      "end": "2026-08-04T10:00:00-04:00",
-      "url": "https://www.griffswest.com/",
-      "source_id": "holland-202608040900-steg-s-stickhandling---skating-day-camp-@gr-hockey-scraper",
-      "location": "4444 Holland Avenue, Holland, MI 49424"
-    },
-    {
-      "venue": "Holland Ice Arena (Griff's West)",
-      "title": "Steg's Stickhandling & Skating Day Camp (Red Arena)",
-      "start": "2026-08-04T13:00:00-04:00",
-      "end": "2026-08-04T14:00:00-04:00",
-      "url": "https://www.griffswest.com/",
-      "source_id": "holland-202608041300-steg-s-stickhandling---skating-day-camp-@gr-hockey-scraper",
-      "location": "4444 Holland Avenue, Holland, MI 49424"
-    },
-    {
-      "venue": "Holland Ice Arena (Griff's West)",
-      "title": "Stick & Puck ALL AGES (Red Arena)",
-      "start": "2026-08-04T18:00:00-04:00",
-      "end": "2026-08-04T18:50:00-04:00",
-      "url": "https://www.griffswest.com/",
-      "source_id": "holland-202608041800-stick---puck-all-ages--red-arena-@gr-hockey-scraper",
-      "location": "4444 Holland Avenue, Holland, MI 49424"
-    },
-    {
-      "venue": "Holland Ice Arena (Griff's West)",
-      "title": "Steg's Stickhandling & Skating Day Camp (Red Arena)",
-      "start": "2026-08-05T09:00:00-04:00",
-      "end": "2026-08-05T10:00:00-04:00",
-      "url": "https://www.griffswest.com/",
-      "source_id": "holland-202608050900-steg-s-stickhandling---skating-day-camp-@gr-hockey-scraper",
-      "location": "4444 Holland Avenue, Holland, MI 49424"
-    },
-    {
-      "venue": "Holland Ice Arena (Griff's West)",
-      "title": "Steg's Stickhandling & Skating Day Camp (Red Arena)",
-      "start": "2026-08-05T13:00:00-04:00",
-      "end": "2026-08-05T14:00:00-04:00",
-      "url": "https://www.griffswest.com/",
-      "source_id": "holland-202608051300-steg-s-stickhandling---skating-day-camp-@gr-hockey-scraper",
-      "location": "4444 Holland Avenue, Holland, MI 49424"
-    },
-    {
-      "venue": "Holland Ice Arena (Griff's West)",
-      "title": "Steg's Stickhandling & Skating Day Camp (Red Arena)",
-      "start": "2026-08-06T09:00:00-04:00",
-      "end": "2026-08-06T10:00:00-04:00",
-      "url": "https://www.griffswest.com/",
-      "source_id": "holland-202608060900-steg-s-stickhandling---skating-day-camp-@gr-hockey-scraper",
-      "location": "4444 Holland Avenue, Holland, MI 49424"
-    },
-    {
-      "venue": "Holland Ice Arena (Griff's West)",
-      "title": "Steg's Stickhandling & Skating Day Camp (Red Arena)",
-      "start": "2026-08-06T13:00:00-04:00",
-      "end": "2026-08-06T14:00:00-04:00",
-      "url": "https://www.griffswest.com/",
-      "source_id": "holland-202608061300-steg-s-stickhandling---skating-day-camp-@gr-hockey-scraper",
-      "location": "4444 Holland Avenue, Holland, MI 49424"
-    },
-    {
-      "venue": "Holland Ice Arena (Griff's West)",
-      "title": "Stick & Puck ALL AGES (Red Arena)",
-      "start": "2026-08-06T18:00:00-04:00",
-      "end": "2026-08-06T18:50:00-04:00",
-      "url": "https://www.griffswest.com/",
-      "source_id": "holland-202608061800-stick---puck-all-ages--red-arena-@gr-hockey-scraper",
-      "location": "4444 Holland Avenue, Holland, MI 49424"
     }
   ],
   "lakeshore": [
-    {
-      "venue": "Lakeshore Sports Centre",
-      "title": "Sticks and Pucks (North Rink)",
-      "start": "2026-07-24T19:30:00-04:00",
-      "end": "2026-07-24T20:50:00-04:00",
-      "url": "https://lakeshoresportscentre.net/",
-      "source_id": "lakeshore-202607241930-sticks-and-pucks--north-rink-@gr-hockey-scraper",
-      "location": "4470 Airline Road, Muskegon, MI 49444"
-    },
     {
       "venue": "Lakeshore Sports Centre",
       "title": "Sticks and Pucks (North Rink)",
@@ -821,6 +740,15 @@
       "end": "2026-07-31T21:00:00-04:00",
       "url": "https://lakeshoresportscentre.net/",
       "source_id": "lakeshore-202607311930-sticks-and-pucks--north-rink-@gr-hockey-scraper",
+      "location": "4470 Airline Road, Muskegon, MI 49444"
+    },
+    {
+      "venue": "Lakeshore Sports Centre",
+      "title": "Sticks and Pucks (North Rink)",
+      "start": "2026-08-01T11:30:00-04:00",
+      "end": "2026-08-01T12:50:00-04:00",
+      "url": "https://lakeshoresportscentre.net/",
+      "source_id": "lakeshore-202608011130-sticks-and-pucks--north-rink-@gr-hockey-scraper",
       "location": "4470 Airline Road, Muskegon, MI 49444"
     },
     {
