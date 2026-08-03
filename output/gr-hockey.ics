@@ -10,6 +10,14 @@ SUMMARY:Stick & Puck (West Rink) @ Hudsonville Ice Arena
 UID:hudsonville-ice-aren-202612161500-stick---puck--west-rink-@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://www.griffswest.com/
+DTEND:20260811T225000Z
+LOCATION:4444 Holland Avenue\, Holland\, MI 49424
+DTSTART:20260811T220000Z
+SUMMARY:Stick & Puck ALL AGES (Red Arena) @ Holland Ice Arena (Griff's West)
+UID:holland-ice-arena-(g-202608111800-stick---puck-all-ages--red-arena-@gr-hockey-scraper
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://lakeshoresportscentre.net/
 DTEND:20260807T192000Z
 LOCATION:4470 Airline Road\, Muskegon\, MI 49444
@@ -178,14 +186,6 @@ SUMMARY:Roller Stick & Puck - Wed - 03:00 pm (West Rink) @ Hudsonville Ice Arena
 UID:hudsonville-ice-aren-202608191500-roller-stick---puck---wed---03-00-pm--we@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://www.pattersonicecenter.com/event/8350407/2026/8/2
-DTEND:20260802T150000Z
-LOCATION:2550 Patterson Ave SE\, Grand Rapids\, MI
-DTSTART:20260802T130000Z
-SUMMARY:Open Hockey @ Patterson Ice Center
-UID:patterson-ice-center-202608020900-open-hockey@gr-hockey-scraper
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://www.pattersonicecenter.com/event/8350407/2026/9/10
 DTEND:20260910T150000Z
 LOCATION:2550 Patterson Ave SE\, Grand Rapids\, MI
@@ -288,14 +288,6 @@ LOCATION:8500 48th Ave\, Hudsonville\, MI
 DTSTART:20260822T160000Z
 SUMMARY:Roller Stick & Puck - Sat - 12:00 pm (West Rink) @ Hudsonville Ice Arena
 UID:hudsonville-ice-aren-202608221200-roller-stick---puck---sat---12-00-pm--we@gr-hockey-scraper
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://www.pattersonicecenter.com/event/8350407/2026/8/2
-DTEND:20260802T205000Z
-LOCATION:2550 Patterson Ave SE\, Grand Rapids\, MI
-DTSTART:20260802T200000Z
-SUMMARY:Stick & Puck (All Ages) @ Patterson Ice Center
-UID:patterson-ice-center-202608021600-stick---puck--all-ages-@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://www.pattersonicecenter.com/event/8350407/2026/9/14
@@ -592,14 +584,6 @@ LOCATION:8500 48th Ave\, Hudsonville\, MI
 DTSTART:20260815T160000Z
 SUMMARY:Stick & Puck (East Rink) @ Hudsonville Ice Arena
 UID:hudsonville-ice-aren-202608151200-stick---puck--east-rink-@gr-hockey-scraper
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://www.griffsicehouse.com/ice-schedule-2/
-DTEND:20260802T212000Z
-LOCATION:30 Coldbrook St NE\, Grand Rapids\, MI
-DTSTART:20260802T203000Z
-SUMMARY:Sticks & Pucks (West Rink) @ Griff's IceHouse (Belknap)
-UID:griff's-icehouse-(be-202608021630-sticks---pucks--west-rink-@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://www.griffswest.com/

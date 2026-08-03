@@ -2,24 +2,6 @@
   "patterson": [
     {
       "venue": "Patterson Ice Center",
-      "title": "Open Hockey",
-      "start": "2026-08-02T09:00:00-04:00",
-      "end": "2026-08-02T11:00:00-04:00",
-      "url": "https://www.pattersonicecenter.com/event/8350407/2026/8/2",
-      "source_id": "patterson-2026-8-2-Open Hockey",
-      "location": "2550 Patterson Ave SE, Grand Rapids, MI"
-    },
-    {
-      "venue": "Patterson Ice Center",
-      "title": "Stick & Puck (All Ages)",
-      "start": "2026-08-02T16:00:00-04:00",
-      "end": "2026-08-02T16:50:00-04:00",
-      "url": "https://www.pattersonicecenter.com/event/8350407/2026/8/2",
-      "source_id": "patterson-2026-8-2-Stick & Puck (All Ages)",
-      "location": "2550 Patterson Ave SE, Grand Rapids, MI"
-    },
-    {
-      "venue": "Patterson Ice Center",
       "title": "Open Hockey (55+)",
       "start": "2026-08-03T09:00:00-04:00",
       "end": "2026-08-03T11:00:00-04:00",
@@ -372,15 +354,6 @@
   ],
   "walker": [],
   "griffs_belknap": [
-    {
-      "venue": "Griff's IceHouse (Belknap)",
-      "title": "Sticks & Pucks (West Rink)",
-      "start": "2026-08-02T16:30:00-04:00",
-      "end": "2026-08-02T17:20:00-04:00",
-      "url": "https://www.griffsicehouse.com/ice-schedule-2/",
-      "source_id": "griffs_belknap-202608021630-sticks---pucks--west-rink-@gr-hockey-scraper",
-      "location": "30 Coldbrook St NE, Grand Rapids, MI"
-    },
     {
       "venue": "Griff's IceHouse (Belknap)",
       "title": "Sticks & Pucks (West Rink)",
@@ -891,6 +864,15 @@
       "end": "2026-08-06T18:50:00-04:00",
       "url": "https://www.griffswest.com/",
       "source_id": "holland-202608061800-stick---puck-all-ages--red-arena-@gr-hockey-scraper",
+      "location": "4444 Holland Avenue, Holland, MI 49424"
+    },
+    {
+      "venue": "Holland Ice Arena (Griff's West)",
+      "title": "Stick & Puck ALL AGES (Red Arena)",
+      "start": "2026-08-11T18:00:00-04:00",
+      "end": "2026-08-11T18:50:00-04:00",
+      "url": "https://www.griffswest.com/",
+      "source_id": "holland-202608111800-stick---puck-all-ages--red-arena-@gr-hockey-scraper",
       "location": "4444 Holland Avenue, Holland, MI 49424"
     }
   ],
