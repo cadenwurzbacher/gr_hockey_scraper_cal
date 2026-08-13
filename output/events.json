@@ -2,24 +2,6 @@
   "patterson": [
     {
       "venue": "Patterson Ice Center",
-      "title": "Open Hockey",
-      "start": "2026-08-12T09:00:00-04:00",
-      "end": "2026-08-12T11:00:00-04:00",
-      "url": "https://www.pattersonicecenter.com/event/8350407/2026/8/12",
-      "source_id": "patterson-2026-8-12-Open Hockey",
-      "location": "2550 Patterson Ave SE, Grand Rapids, MI"
-    },
-    {
-      "venue": "Patterson Ice Center",
-      "title": "Stick & Puck-14 and Up",
-      "start": "2026-08-12T17:00:00-04:00",
-      "end": "2026-08-12T17:50:00-04:00",
-      "url": "https://www.pattersonicecenter.com/event/8350407/2026/8/12",
-      "source_id": "patterson-2026-8-12-Stick & Puck-14 and Up",
-      "location": "2550 Patterson Ave SE, Grand Rapids, MI"
-    },
-    {
-      "venue": "Patterson Ice Center",
       "title": "Stick & Puck-14 and Up",
       "start": "2026-08-14T15:00:00-04:00",
       "end": "2026-08-14T15:50:00-04:00",
@@ -284,24 +266,6 @@
     }
   ],
   "griffs_georgetown": [
-    {
-      "venue": "Hudsonville Ice Arena",
-      "title": "Stick & Puck (East Rink)",
-      "start": "2026-08-12T15:00:00-04:00",
-      "end": "2026-08-12T15:50:00-04:00",
-      "url": "https://schedule.bondsports.co/schedule/Hudsonville-Ice-Schedule",
-      "source_id": "griffs_georgetown-202608121500-stick---puck--east-rink-@gr-hockey-scraper",
-      "location": "8500 48th Ave, Hudsonville, MI"
-    },
-    {
-      "venue": "Hudsonville Ice Arena",
-      "title": "Roller Stick & Puck - Wed - 03:00 pm (West Rink)",
-      "start": "2026-08-12T15:00:00-04:00",
-      "end": "2026-08-12T15:50:00-04:00",
-      "url": "https://schedule.bondsports.co/schedule/Hudsonville-Ice-Schedule",
-      "source_id": "griffs_georgetown-202608121500-roller-stick---puck---wed---03-00-pm--we@gr-hockey-scraper",
-      "location": "8500 48th Ave, Hudsonville, MI"
-    },
     {
       "venue": "Hudsonville Ice Arena",
       "title": "Stick & Puck (East Rink)",
