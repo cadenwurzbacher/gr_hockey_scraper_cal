@@ -2,15 +2,6 @@
   "patterson": [
     {
       "venue": "Patterson Ice Center",
-      "title": "Stick & Puck-14 and Up",
-      "start": "2026-08-14T15:00:00-04:00",
-      "end": "2026-08-14T15:50:00-04:00",
-      "url": "https://www.pattersonicecenter.com/event/8350407/2026/8/14",
-      "source_id": "patterson-2026-8-14-Stick & Puck-14 and Up",
-      "location": "2550 Patterson Ave SE, Grand Rapids, MI"
-    },
-    {
-      "venue": "Patterson Ice Center",
       "title": "Open Hockey",
       "start": "2026-08-16T09:00:00-04:00",
       "end": "2026-08-16T11:00:00-04:00",
@@ -564,29 +555,11 @@
   "lakeshore": [
     {
       "venue": "Lakeshore Sports Centre",
-      "title": "Sticks and Pucks (North Rink)",
-      "start": "2026-08-14T18:30:00-04:00",
-      "end": "2026-08-14T20:00:00-04:00",
-      "url": "https://lakeshoresportscentre.net/",
-      "source_id": "lakeshore-202608141830-sticks-and-pucks--north-rink-@gr-hockey-scraper",
-      "location": "4470 Airline Road, Muskegon, MI 49444"
-    },
-    {
-      "venue": "Lakeshore Sports Centre",
       "title": "Family Sticks and Pucks (North Rink)",
       "start": "2026-08-15T12:00:00-04:00",
       "end": "2026-08-15T13:20:00-04:00",
       "url": "https://lakeshoresportscentre.net/",
       "source_id": "lakeshore-202608151200-family-sticks-and-pucks--north-rink-@gr-hockey-scraper",
-      "location": "4470 Airline Road, Muskegon, MI 49444"
-    },
-    {
-      "venue": "Lakeshore Sports Centre",
-      "title": "Sticks and Pucks (North Rink)",
-      "start": "2026-08-15T13:30:00-04:00",
-      "end": "2026-08-15T14:50:00-04:00",
-      "url": "https://lakeshoresportscentre.net/",
-      "source_id": "lakeshore-202608151330-sticks-and-pucks--north-rink-@gr-hockey-scraper",
       "location": "4470 Airline Road, Muskegon, MI 49444"
     },
     {
