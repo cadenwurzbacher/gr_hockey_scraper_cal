@@ -260,24 +260,6 @@
     {
       "venue": "Hudsonville Ice Arena",
       "title": "Stick & Puck (East Rink)",
-      "start": "2026-08-15T12:00:00-04:00",
-      "end": "2026-08-15T12:50:00-04:00",
-      "url": "https://schedule.bondsports.co/schedule/Hudsonville-Ice-Schedule",
-      "source_id": "griffs_georgetown-202608151200-stick---puck--east-rink-@gr-hockey-scraper",
-      "location": "8500 48th Ave, Hudsonville, MI"
-    },
-    {
-      "venue": "Hudsonville Ice Arena",
-      "title": "Roller Stick & Puck - Sat - 12:00 pm (West Rink)",
-      "start": "2026-08-15T12:00:00-04:00",
-      "end": "2026-08-15T12:50:00-04:00",
-      "url": "https://schedule.bondsports.co/schedule/Hudsonville-Ice-Schedule",
-      "source_id": "griffs_georgetown-202608151200-roller-stick---puck---sat---12-00-pm--we@gr-hockey-scraper",
-      "location": "8500 48th Ave, Hudsonville, MI"
-    },
-    {
-      "venue": "Hudsonville Ice Arena",
-      "title": "Stick & Puck (East Rink)",
       "start": "2026-08-19T15:00:00-04:00",
       "end": "2026-08-19T15:50:00-04:00",
       "url": "https://schedule.bondsports.co/schedule/Hudsonville-Ice-Schedule",
@@ -553,15 +535,6 @@
     }
   ],
   "lakeshore": [
-    {
-      "venue": "Lakeshore Sports Centre",
-      "title": "Family Sticks and Pucks (North Rink)",
-      "start": "2026-08-15T12:00:00-04:00",
-      "end": "2026-08-15T13:20:00-04:00",
-      "url": "https://lakeshoresportscentre.net/",
-      "source_id": "lakeshore-202608151200-family-sticks-and-pucks--north-rink-@gr-hockey-scraper",
-      "location": "4470 Airline Road, Muskegon, MI 49444"
-    },
     {
       "venue": "Lakeshore Sports Centre",
       "title": "Family Sticks and Pucks (North Rink)",

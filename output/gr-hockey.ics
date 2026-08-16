@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://lakeshoresportscentre.net/
-DTEND:20260815T172000Z
-LOCATION:4470 Airline Road\, Muskegon\, MI 49444
-DTSTART:20260815T160000Z
-SUMMARY:Family Sticks and Pucks (North Rink) @ Lakeshore Sports Centre
-UID:lakeshore-sports-cen-202608151200-family-sticks-and-pucks--north-rink-@gr-hockey-scraper
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://www.griffswest.com/
 DTEND:20260820T225000Z
 LOCATION:4444 Holland Avenue\, Holland\, MI 49424
@@ -330,14 +322,6 @@ SUMMARY:Sticks and Pucks (North Rink) @ Lakeshore Sports Centre
 UID:lakeshore-sports-cen-202608181215-sticks-and-pucks--north-rink-@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://schedule.bondsports.co/schedule/Hudsonville-Ice-Schedule
-DTEND:20260815T165000Z
-LOCATION:8500 48th Ave\, Hudsonville\, MI
-DTSTART:20260815T160000Z
-SUMMARY:Stick & Puck (East Rink) @ Hudsonville Ice Arena
-UID:hudsonville-ice-aren-202608151200-stick---puck--east-rink-@gr-hockey-scraper
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://www.griffsicehouse.com/ice-schedule-2/
 DTEND:20260830T212000Z
 LOCATION:30 Coldbrook St NE\, Grand Rapids\, MI
@@ -456,14 +440,6 @@ LOCATION:2550 Patterson Ave SE\, Grand Rapids\, MI
 DTSTART:20260830T130000Z
 SUMMARY:Open Hockey @ Patterson Ice Center
 UID:patterson-ice-center-202608300900-open-hockey@gr-hockey-scraper
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://schedule.bondsports.co/schedule/Hudsonville-Ice-Schedule
-DTEND:20260815T165000Z
-LOCATION:8500 48th Ave\, Hudsonville\, MI
-DTSTART:20260815T160000Z
-SUMMARY:Roller Stick & Puck - Sat - 12:00 pm (West Rink) @ Hudsonville Ice Arena
-UID:hudsonville-ice-aren-202608151200-roller-stick---puck---sat---12-00-pm--we@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://schedule.bondsports.co/schedule/Hudsonville-Ice-Schedule
