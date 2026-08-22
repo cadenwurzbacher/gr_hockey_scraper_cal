@@ -470,6 +470,15 @@
       "url": "https://lakeshoresportscentre.net/",
       "source_id": "lakeshore-202608291200-sticks-and-pucks--north-rink-@gr-hockey-scraper",
       "location": "4470 Airline Road, Muskegon, MI 49444"
+    },
+    {
+      "venue": "Lakeshore Sports Centre",
+      "title": "Sticks and Pucks (North Rink)",
+      "start": "2026-08-30T10:30:00-04:00",
+      "end": "2026-08-30T12:00:00-04:00",
+      "url": "https://lakeshoresportscentre.net/",
+      "source_id": "lakeshore-202608301030-sticks-and-pucks--north-rink-@gr-hockey-scraper",
+      "location": "4470 Airline Road, Muskegon, MI 49444"
     }
   ]
 }
