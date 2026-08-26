@@ -34,14 +34,6 @@ SUMMARY:Open Hockey @ Patterson Ice Center
 UID:patterson-ice-center-202609020900-open-hockey@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://docs.google.com/spreadsheets/d/1rLaoKgECpzthOg7w9og17OZuN30uTvoiRX56jSo7DOA
-DTEND:20260825T235000Z
-LOCATION:4758 Cornfield Drive NE\, Cedar Springs\, MI 49319
-DTSTART:20260825T223000Z
-SUMMARY:Stick & Puck      13+ @ Cedar Rock Sportsplex
-UID:cedar-rock-sportsple-202608251830-stick---puck------13-@gr-hockey-scraper
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://schedule.bondsports.co/schedule/Hudsonville-Ice-Schedule
 DTEND:20261216T205000Z
 LOCATION:8500 48th Ave\, Hudsonville\, MI
@@ -64,6 +56,14 @@ LOCATION:8500 48th Ave\, Hudsonville\, MI
 DTSTART:20260930T190000Z
 SUMMARY:Stick & Puck (West Rink) @ Hudsonville Ice Arena
 UID:hudsonville-ice-aren-202609301500-stick---puck--west-rink-@gr-hockey-scraper
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://schedule.bondsports.co/schedule/Hudsonville-Ice-Schedule
+DTEND:20260903T215000Z
+LOCATION:8500 48th Ave\, Hudsonville\, MI
+DTSTART:20260903T210000Z
+SUMMARY:Stick & Puck (West Rink) @ Hudsonville Ice Arena
+UID:hudsonville-ice-aren-202609031700-stick---puck--west-rink-@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://schedule.bondsports.co/schedule/Hudsonville-Ice-Schedule
@@ -155,6 +155,14 @@ UID:cedar-rock-sportsple-202608281700-stick---puck------13-@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://schedule.bondsports.co/schedule/Hudsonville-Ice-Schedule
+DTEND:20260831T235000Z
+LOCATION:8500 48th Ave\, Hudsonville\, MI
+DTSTART:20260831T230000Z
+SUMMARY:Stick & Puck (East Rink) @ Hudsonville Ice Arena
+UID:hudsonville-ice-aren-202608311900-stick---puck--east-rink-@gr-hockey-scraper
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://schedule.bondsports.co/schedule/Hudsonville-Ice-Schedule
 DTEND:20261111T205000Z
 LOCATION:8500 48th Ave\, Hudsonville\, MI
 DTSTART:20261111T200000Z
@@ -200,6 +208,14 @@ LOCATION:2550 Patterson Ave SE\, Grand Rapids\, MI
 DTSTART:20260909T130000Z
 SUMMARY:Open Hockey @ Patterson Ice Center
 UID:patterson-ice-center-202609090900-open-hockey@gr-hockey-scraper
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://schedule.bondsports.co/schedule/Hudsonville-Ice-Schedule
+DTEND:20260901T225000Z
+LOCATION:8500 48th Ave\, Hudsonville\, MI
+DTSTART:20260901T220000Z
+SUMMARY:Stick & Puck (East Rink) @ Hudsonville Ice Arena
+UID:hudsonville-ice-aren-202609011800-stick---puck--east-rink-@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://www.pattersonicecenter.com/event/8350407/2026/9/14
