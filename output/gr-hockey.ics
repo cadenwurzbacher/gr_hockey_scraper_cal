@@ -147,14 +147,6 @@ UID:hudsonville-ice-aren-202611251500-stick---puck--west-rink-@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://schedule.bondsports.co/schedule/Hudsonville-Ice-Schedule
-DTEND:20260831T235000Z
-LOCATION:8500 48th Ave\, Hudsonville\, MI
-DTSTART:20260831T230000Z
-SUMMARY:Stick & Puck (East Rink) @ Hudsonville Ice Arena
-UID:hudsonville-ice-aren-202608311900-stick---puck--east-rink-@gr-hockey-scraper
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://schedule.bondsports.co/schedule/Hudsonville-Ice-Schedule
 DTEND:20261111T205000Z
 LOCATION:8500 48th Ave\, Hudsonville\, MI
 DTSTART:20261111T200000Z
