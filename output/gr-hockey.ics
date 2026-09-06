@@ -75,14 +75,6 @@ UID:griff's-icehouse-(be-202610031600-sticks---pucks--west-rink-@gr-hockey-scrap
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://lakeshoresportscentre.net/
-DTEND:20260905T155000Z
-LOCATION:4470 Airline Road\, Muskegon\, MI 49444
-DTSTART:20260905T143000Z
-SUMMARY:All Ages Sticks and Pucks (North Rink) @ Lakeshore Sports Centre
-UID:lakeshore-sports-cen-202609051030-all-ages-sticks-and-pucks--north-rink-@gr-hockey-scraper
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://lakeshoresportscentre.net/
 DTEND:20260918T222000Z
 LOCATION:4470 Airline Road\, Muskegon\, MI 49444
 DTSTART:20260918T210000Z
@@ -96,14 +88,6 @@ LOCATION:4758 Cornfield Drive NE\, Cedar Springs\, MI 49319
 DTSTART:20260919T163000Z
 SUMMARY:Stick & Puck      13+ @ Cedar Rock Sportsplex
 UID:cedar-rock-sportsple-202609191230-stick---puck------13-@gr-hockey-scraper
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://www.pattersonicecenter.com/event/8350407/2026/9/5
-DTEND:20260905T205000Z
-LOCATION:2550 Patterson Ave SE\, Grand Rapids\, MI
-DTSTART:20260905T200000Z
-SUMMARY:Stick & Puck (14 & Up) @ Patterson Ice Center
-UID:patterson-ice-center-202609051600-stick---puck--14---up-@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://www.pattersonicecenter.com/event/8350407/2026/9/12
@@ -280,14 +264,6 @@ LOCATION:4470 Airline Road\, Muskegon\, MI 49444
 DTSTART:20260917T230000Z
 SUMMARY:All Ages Sticks and Pucks (South Rink) @ Lakeshore Sports Centre
 UID:lakeshore-sports-cen-202609171900-all-ages-sticks-and-pucks--south-rink-@gr-hockey-scraper
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://www.pattersonicecenter.com/event/8350407/2026/9/5
-DTEND:20260905T150000Z
-LOCATION:2550 Patterson Ave SE\, Grand Rapids\, MI
-DTSTART:20260905T130000Z
-SUMMARY:Open Hockey @ Patterson Ice Center
-UID:patterson-ice-center-202609050900-open-hockey@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://schedule.bondsports.co/schedule/Hudsonville-Ice-Schedule
