@@ -10,14 +10,6 @@ SUMMARY:Open Hockey @ Patterson Ice Center
 UID:patterson-ice-center-202609300900-open-hockey@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://lakeshoresportscentre.net/
-DTEND:20260912T212000Z
-LOCATION:4470 Airline Road\, Muskegon\, MI 49444
-DTSTART:20260912T200000Z
-SUMMARY:10 and Under Sticks and Pucks (North Rink) @ Lakeshore Sports Centre
-UID:lakeshore-sports-cen-202609121600-10-and-under-sticks-and-pucks--north-rin@gr-hockey-scraper
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://schedule.bondsports.co/schedule/Hudsonville-Ice-Schedule
 DTEND:20261216T205000Z
 LOCATION:8500 48th Ave\, Hudsonville\, MI
@@ -160,14 +152,6 @@ LOCATION:8500 48th Ave\, Hudsonville\, MI
 DTSTART:20260923T190000Z
 SUMMARY:Stick & Puck (West Rink) @ Hudsonville Ice Arena
 UID:hudsonville-ice-aren-202609231500-stick---puck--west-rink-@gr-hockey-scraper
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://lakeshoresportscentre.net/
-DTEND:20260912T212000Z
-LOCATION:4470 Airline Road\, Muskegon\, MI 49444
-DTSTART:20260912T200000Z
-SUMMARY:All Ages Sticks and Pucks (South Rink) @ Lakeshore Sports Centre
-UID:lakeshore-sports-cen-202609121600-all-ages-sticks-and-pucks--south-rink-@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://schedule.bondsports.co/schedule/Hudsonville-Ice-Schedule
