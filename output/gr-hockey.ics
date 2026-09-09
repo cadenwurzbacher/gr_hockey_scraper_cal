@@ -186,14 +186,6 @@ SUMMARY:Open Hockey @ Patterson Ice Center
 UID:patterson-ice-center-202609090900-open-hockey@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://www.pattersonicecenter.com/event/8350407/2026/9/8
-DTEND:20260908T205000Z
-LOCATION:2550 Patterson Ave SE\, Grand Rapids\, MI
-DTSTART:20260908T200000Z
-SUMMARY:Stick & Puck (All Ages) @ Patterson Ice Center
-UID:patterson-ice-center-202609081600-stick---puck--all-ages-@gr-hockey-scraper
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://lakeshoresportscentre.net/
 DTEND:20260919T155000Z
 LOCATION:4470 Airline Road\, Muskegon\, MI 49444
@@ -275,19 +267,19 @@ UID:cedar-rock-sportsple-202609181830-stick---puck------13-@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://docs.google.com/spreadsheets/d/1rLaoKgECpzthOg7w9og17OZuN30uTvoiRX56jSo7DOA
-DTEND:20260911T235000Z
-LOCATION:4758 Cornfield Drive NE\, Cedar Springs\, MI 49319
-DTSTART:20260911T223000Z
-SUMMARY:Stick & Puck      13+ @ Cedar Rock Sportsplex
-UID:cedar-rock-sportsple-202609111830-stick---puck------13-@gr-hockey-scraper
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://docs.google.com/spreadsheets/d/1rLaoKgECpzthOg7w9og17OZuN30uTvoiRX56jSo7DOA
 DTEND:20260912T162000Z
 LOCATION:4758 Cornfield Drive NE\, Cedar Springs\, MI 49319
 DTSTART:20260912T150000Z
 SUMMARY:Stick & Puck      13+ @ Cedar Rock Sportsplex
 UID:cedar-rock-sportsple-202609121100-stick---puck------13-@gr-hockey-scraper
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://docs.google.com/spreadsheets/d/1rLaoKgECpzthOg7w9og17OZuN30uTvoiRX56jSo7DOA
+DTEND:20260911T235000Z
+LOCATION:4758 Cornfield Drive NE\, Cedar Springs\, MI 49319
+DTSTART:20260911T223000Z
+SUMMARY:Stick & Puck      13+ @ Cedar Rock Sportsplex
+UID:cedar-rock-sportsple-202609111830-stick---puck------13-@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://schedule.bondsports.co/schedule/Hudsonville-Ice-Schedule
