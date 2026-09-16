@@ -18,20 +18,20 @@ SUMMARY:Open Hockey @ Patterson Ice Center
 UID:patterson-ice-center-202609300900-open-hockey@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://www.griffsicehouse.com/ice-schedule-2/
+DTEND:20261017T222000Z
+LOCATION:30 Coldbrook St NE\, Grand Rapids\, MI
+DTSTART:20261017T213000Z
+SUMMARY:Sticks & Pucks (West Rink) @ Griff's IceHouse (Belknap)
+UID:griff's-icehouse-(be-202610171730-sticks---pucks--west-rink-@gr-hockey-scraper
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://lakeshoresportscentre.net/
 DTEND:20260925T235000Z
 LOCATION:4470 Airline Road\, Muskegon\, MI 49444
 DTSTART:20260925T223000Z
 SUMMARY:All Ages Sticks and Pucks (South Rink) @ Lakeshore Sports Centre
 UID:lakeshore-sports-cen-202609251830-all-ages-sticks-and-pucks--south-rink-@gr-hockey-scraper
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://schedule.bondsports.co/schedule/Hudsonville-Ice-Schedule
-DTEND:20261014T195000Z
-LOCATION:8500 48th Ave\, Hudsonville\, MI
-DTSTART:20261014T190000Z
-SUMMARY:Stick & Puck (West Rink) @ Hudsonville Ice Arena
-UID:hudsonville-ice-aren-202610141500-stick---puck--west-rink-@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://schedule.bondsports.co/schedule/Hudsonville-Ice-Schedule
@@ -218,6 +218,14 @@ SUMMARY:10 and Under Sticks and Pucks (South Rink) @ Lakeshore Sports Centre
 UID:lakeshore-sports-cen-202609191030-10-and-under-sticks-and-pucks--south-rin@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://docs.google.com/spreadsheets/d/1rLaoKgECpzthOg7w9og17OZuN30uTvoiRX56jSo7DOA
+DTEND:20260926T162000Z
+LOCATION:4758 Cornfield Drive NE\, Cedar Springs\, MI 49319
+DTSTART:20260926T150000Z
+SUMMARY:Stick & Puck      13+ @ Cedar Rock Sportsplex
+UID:cedar-rock-sportsple-202609261100-stick---puck------13-@gr-hockey-scraper
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://lakeshoresportscentre.net/
 DTEND:20260917T225000Z
 LOCATION:4470 Airline Road\, Muskegon\, MI 49444
@@ -346,11 +354,11 @@ SUMMARY:All Ages Sticks and Pucks (South Rink) @ Lakeshore Sports Centre
 UID:lakeshore-sports-cen-202609201800-all-ages-sticks-and-pucks--south-rink-@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://docs.google.com/spreadsheets/d/1rLaoKgECpzthOg7w9og17OZuN30uTvoiRX56jSo7DOA
-DTEND:20260926T232000Z
-LOCATION:4758 Cornfield Drive NE\, Cedar Springs\, MI 49319
-DTSTART:20260926T220000Z
-SUMMARY:Stick & Puck      13+ @ Cedar Rock Sportsplex
-UID:cedar-rock-sportsple-202609261800-stick---puck------13-@gr-hockey-scraper
+DESCRIPTION:https://schedule.bondsports.co/schedule/Hudsonville-Ice-Schedule
+DTEND:20261014T195000Z
+LOCATION:8500 48th Ave\, Hudsonville\, MI
+DTSTART:20261014T190000Z
+SUMMARY:Stick & Puck (West Rink) @ Hudsonville Ice Arena
+UID:hudsonville-ice-aren-202610141500-stick---puck--west-rink-@gr-hockey-scraper
 END:VEVENT
 END:VCALENDAR
