@@ -2,15 +2,6 @@
   "patterson": [
     {
       "venue": "Patterson Ice Center",
-      "title": "Open Hockey",
-      "start": "2026-09-16T09:00:00-04:00",
-      "end": "2026-09-16T11:00:00-04:00",
-      "url": "https://www.pattersonicecenter.com/event/8350407/2026/9/16",
-      "source_id": "patterson-2026-9-16-Open Hockey",
-      "location": "2550 Patterson Ave SE, Grand Rapids, MI"
-    },
-    {
-      "venue": "Patterson Ice Center",
       "title": "Open Hockey (55+)",
       "start": "2026-09-17T09:00:00-04:00",
       "end": "2026-09-17T11:00:00-04:00",
@@ -41,6 +32,15 @@
   "griffs_belknap": [
     {
       "venue": "Griff's IceHouse (Belknap)",
+      "title": "Stick & Puck (East Rink)",
+      "start": "2026-09-19T12:30:00-04:00",
+      "end": "2026-09-19T13:45:00-04:00",
+      "url": "https://www.griffsicehouse.com/ice-schedule-2/",
+      "source_id": "griffs_belknap-202609191230-stick---puck--east-rink-@gr-hockey-scraper",
+      "location": "30 Coldbrook St NE, Grand Rapids, MI"
+    },
+    {
+      "venue": "Griff's IceHouse (Belknap)",
       "title": "Sticks & Pucks (West Rink)",
       "start": "2026-10-03T16:00:00-04:00",
       "end": "2026-10-03T16:50:00-04:00",
@@ -65,18 +65,18 @@
       "url": "https://www.griffsicehouse.com/ice-schedule-2/",
       "source_id": "griffs_belknap-202610171730-sticks---pucks--west-rink-@gr-hockey-scraper",
       "location": "30 Coldbrook St NE, Grand Rapids, MI"
+    },
+    {
+      "venue": "Griff's IceHouse (Belknap)",
+      "title": "Stick & Puck (West Rink)",
+      "start": "2026-10-18T16:00:00-04:00",
+      "end": "2026-10-18T16:50:00-04:00",
+      "url": "https://www.griffsicehouse.com/ice-schedule-2/",
+      "source_id": "griffs_belknap-202610181600-stick---puck--west-rink-@gr-hockey-scraper",
+      "location": "30 Coldbrook St NE, Grand Rapids, MI"
     }
   ],
   "griffs_georgetown": [
-    {
-      "venue": "Hudsonville Ice Arena",
-      "title": "Stick & Puck (West Rink)",
-      "start": "2026-09-16T15:00:00-04:00",
-      "end": "2026-09-16T15:50:00-04:00",
-      "url": "https://schedule.bondsports.co/schedule/Hudsonville-Ice-Schedule",
-      "source_id": "griffs_georgetown-202609161500-stick---puck--west-rink-@gr-hockey-scraper",
-      "location": "8500 48th Ave, Hudsonville, MI"
-    },
     {
       "venue": "Hudsonville Ice Arena",
       "title": "Stick & Puck (West Rink)",

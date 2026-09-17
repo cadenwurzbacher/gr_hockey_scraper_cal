@@ -2,6 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:https://www.griffsicehouse.com/ice-schedule-2/
+DTEND:20260919T174500Z
+LOCATION:30 Coldbrook St NE\, Grand Rapids\, MI
+DTSTART:20260919T163000Z
+SUMMARY:Stick & Puck (East Rink) @ Griff's IceHouse (Belknap)
+UID:griff's-icehouse-(be-202609191230-stick---puck--east-rink-@gr-hockey-scraper
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://lakeshoresportscentre.net/
 DTEND:20260927T212000Z
 LOCATION:4470 Airline Road\, Muskegon\, MI 49444
@@ -120,6 +128,14 @@ LOCATION:4758 Cornfield Drive NE\, Cedar Springs\, MI 49319
 DTSTART:20260919T163000Z
 SUMMARY:Stick & Puck      13+ @ Cedar Rock Sportsplex
 UID:cedar-rock-sportsple-202609191230-stick---puck------13-@gr-hockey-scraper
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://www.griffsicehouse.com/ice-schedule-2/
+DTEND:20261018T205000Z
+LOCATION:30 Coldbrook St NE\, Grand Rapids\, MI
+DTSTART:20261018T200000Z
+SUMMARY:Stick & Puck (West Rink) @ Griff's IceHouse (Belknap)
+UID:griff's-icehouse-(be-202610181600-stick---puck--west-rink-@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://www.griffsicehouse.com/ice-schedule-2/
@@ -264,22 +280,6 @@ LOCATION:4470 Airline Road\, Muskegon\, MI 49444
 DTSTART:20260917T230000Z
 SUMMARY:All Ages Sticks and Pucks (South Rink) @ Lakeshore Sports Centre
 UID:lakeshore-sports-cen-202609171900-all-ages-sticks-and-pucks--south-rink-@gr-hockey-scraper
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://schedule.bondsports.co/schedule/Hudsonville-Ice-Schedule
-DTEND:20260916T195000Z
-LOCATION:8500 48th Ave\, Hudsonville\, MI
-DTSTART:20260916T190000Z
-SUMMARY:Stick & Puck (West Rink) @ Hudsonville Ice Arena
-UID:hudsonville-ice-aren-202609161500-stick---puck--west-rink-@gr-hockey-scraper
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://www.pattersonicecenter.com/event/8350407/2026/9/16
-DTEND:20260916T150000Z
-LOCATION:2550 Patterson Ave SE\, Grand Rapids\, MI
-DTSTART:20260916T130000Z
-SUMMARY:Open Hockey @ Patterson Ice Center
-UID:patterson-ice-center-202609160900-open-hockey@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://docs.google.com/spreadsheets/d/1rLaoKgECpzthOg7w9og17OZuN30uTvoiRX56jSo7DOA
