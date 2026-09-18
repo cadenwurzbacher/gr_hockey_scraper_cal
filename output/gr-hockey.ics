@@ -82,14 +82,6 @@ SUMMARY:10 and Under Sticks and Pucks (South Rink) @ Lakeshore Sports Centre
 UID:lakeshore-sports-cen-202609261030-10-and-under-sticks-and-pucks--south-rin@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://www.pattersonicecenter.com/event/8350407/2026/9/17
-DTEND:20260917T150000Z
-LOCATION:2550 Patterson Ave SE\, Grand Rapids\, MI
-DTSTART:20260917T130000Z
-SUMMARY:Open Hockey (55+) @ Patterson Ice Center
-UID:patterson-ice-center-202609170900-open-hockey--55--@gr-hockey-scraper
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://lakeshoresportscentre.net/
 DTEND:20260926T185000Z
 LOCATION:4470 Airline Road\, Muskegon\, MI 49444
@@ -243,14 +235,6 @@ UID:cedar-rock-sportsple-202609261100-stick---puck------13-@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://lakeshoresportscentre.net/
-DTEND:20260917T225000Z
-LOCATION:4470 Airline Road\, Muskegon\, MI 49444
-DTSTART:20260917T213000Z
-SUMMARY:10 and Under Sticks and Pucks (South Rink) @ Lakeshore Sports Centre
-UID:lakeshore-sports-cen-202609171730-10-and-under-sticks-and-pucks--south-rin@gr-hockey-scraper
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://lakeshoresportscentre.net/
 DTEND:20260923T222000Z
 LOCATION:4470 Airline Road\, Muskegon\, MI 49444
 DTSTART:20260923T210000Z
@@ -272,14 +256,6 @@ LOCATION:8500 48th Ave\, Hudsonville\, MI
 DTSTART:20261021T190000Z
 SUMMARY:Stick & Puck (West Rink) @ Hudsonville Ice Arena
 UID:hudsonville-ice-aren-202610211500-stick---puck--west-rink-@gr-hockey-scraper
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://lakeshoresportscentre.net/
-DTEND:20260918T002000Z
-LOCATION:4470 Airline Road\, Muskegon\, MI 49444
-DTSTART:20260917T230000Z
-SUMMARY:All Ages Sticks and Pucks (South Rink) @ Lakeshore Sports Centre
-UID:lakeshore-sports-cen-202609171900-all-ages-sticks-and-pucks--south-rink-@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://docs.google.com/spreadsheets/d/1rLaoKgECpzthOg7w9og17OZuN30uTvoiRX56jSo7DOA

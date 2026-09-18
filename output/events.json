@@ -2,15 +2,6 @@
   "patterson": [
     {
       "venue": "Patterson Ice Center",
-      "title": "Open Hockey (55+)",
-      "start": "2026-09-17T09:00:00-04:00",
-      "end": "2026-09-17T11:00:00-04:00",
-      "url": "https://www.pattersonicecenter.com/event/8350407/2026/9/17",
-      "source_id": "patterson-2026-9-17-Open Hockey (55+)",
-      "location": "2550 Patterson Ave SE, Grand Rapids, MI"
-    },
-    {
-      "venue": "Patterson Ice Center",
       "title": "Open Hockey",
       "start": "2026-09-19T09:00:00-04:00",
       "end": "2026-09-19T11:00:00-04:00",
@@ -264,24 +255,6 @@
   ],
   "holland": [],
   "lakeshore": [
-    {
-      "venue": "Lakeshore Sports Centre",
-      "title": "10 and Under Sticks and Pucks (South Rink)",
-      "start": "2026-09-17T17:30:00-04:00",
-      "end": "2026-09-17T18:50:00-04:00",
-      "url": "https://lakeshoresportscentre.net/",
-      "source_id": "lakeshore-202609171730-10-and-under-sticks-and-pucks--south-rin@gr-hockey-scraper",
-      "location": "4470 Airline Road, Muskegon, MI 49444"
-    },
-    {
-      "venue": "Lakeshore Sports Centre",
-      "title": "All Ages Sticks and Pucks (South Rink)",
-      "start": "2026-09-17T19:00:00-04:00",
-      "end": "2026-09-17T20:20:00-04:00",
-      "url": "https://lakeshoresportscentre.net/",
-      "source_id": "lakeshore-202609171900-all-ages-sticks-and-pucks--south-rink-@gr-hockey-scraper",
-      "location": "4470 Airline Road, Muskegon, MI 49444"
-    },
     {
       "venue": "Lakeshore Sports Centre",
       "title": "10 and Under Sticks and Pucks (South Rink)",
