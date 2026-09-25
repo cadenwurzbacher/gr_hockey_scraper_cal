@@ -263,6 +263,24 @@
       "url": "https://lakeshoresportscentre.net/",
       "source_id": "lakeshore-202610021830-all-ages-sticks-and-pucks--south-rink-@gr-hockey-scraper",
       "location": "4470 Airline Road, Muskegon, MI 49444"
+    },
+    {
+      "venue": "Lakeshore Sports Centre",
+      "title": "All Ages Sticks and Pucks (North Rink)",
+      "start": "2026-10-03T16:00:00-04:00",
+      "end": "2026-10-03T17:20:00-04:00",
+      "url": "https://lakeshoresportscentre.net/",
+      "source_id": "lakeshore-202610031600-all-ages-sticks-and-pucks--north-rink-@gr-hockey-scraper",
+      "location": "4470 Airline Road, Muskegon, MI 49444"
+    },
+    {
+      "venue": "Lakeshore Sports Centre",
+      "title": "10 and Under Sticks and Pucks (South Rink)",
+      "start": "2026-10-03T16:30:00-04:00",
+      "end": "2026-10-03T17:50:00-04:00",
+      "url": "https://lakeshoresportscentre.net/",
+      "source_id": "lakeshore-202610031630-10-and-under-sticks-and-pucks--south-rin@gr-hockey-scraper",
+      "location": "4470 Airline Road, Muskegon, MI 49444"
     }
   ]
 }
