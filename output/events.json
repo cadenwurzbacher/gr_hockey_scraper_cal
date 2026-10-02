@@ -214,7 +214,35 @@
   ],
   "southside": [],
   "eagles": [],
-  "cedar_rock": [],
+  "cedar_rock": [
+    {
+      "venue": "Cedar Rock Sportsplex",
+      "title": "Stick & Puck      13+",
+      "start": "2026-10-10T17:30:00-04:00",
+      "end": "2026-10-10T18:50:00-04:00",
+      "url": "https://docs.google.com/spreadsheets/d/1rLaoKgECpzthOg7w9og17OZuN30uTvoiRX56jSo7DOA",
+      "source_id": "cedarrock-20261010-Stick & Puck      13",
+      "location": "4758 Cornfield Drive NE, Cedar Springs, MI 49319"
+    },
+    {
+      "venue": "Cedar Rock Sportsplex",
+      "title": "Stick & Puck      13+",
+      "start": "2026-10-18T05:30:00-04:00",
+      "end": "2026-10-18T06:00:00-04:00",
+      "url": "https://docs.google.com/spreadsheets/d/1rLaoKgECpzthOg7w9og17OZuN30uTvoiRX56jSo7DOA",
+      "source_id": "cedarrock-20261018-Stick & Puck      13",
+      "location": "4758 Cornfield Drive NE, Cedar Springs, MI 49319"
+    },
+    {
+      "venue": "Cedar Rock Sportsplex",
+      "title": "Stick & Puck      13+",
+      "start": "2026-10-24T17:30:00-04:00",
+      "end": "2026-10-24T18:50:00-04:00",
+      "url": "https://docs.google.com/spreadsheets/d/1rLaoKgECpzthOg7w9og17OZuN30uTvoiRX56jSo7DOA",
+      "source_id": "cedarrock-20261024-Stick & Puck      13",
+      "location": "4758 Cornfield Drive NE, Cedar Springs, MI 49319"
+    }
+  ],
   "holland": [],
   "lakeshore": [
     {
