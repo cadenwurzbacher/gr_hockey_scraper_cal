@@ -19,24 +19,6 @@
       "url": "https://www.griffsicehouse.com/ice-schedule-2/",
       "source_id": "griffs_belknap-202610181600-stick---puck--west-rink-@gr-hockey-scraper",
       "location": "30 Coldbrook St NE, Grand Rapids, MI"
-    },
-    {
-      "venue": "Griff's IceHouse (Belknap)",
-      "title": "Sticks & Pucks (West Rink)",
-      "start": "2026-10-24T17:30:00-04:00",
-      "end": "2026-10-24T18:20:00-04:00",
-      "url": "https://www.griffsicehouse.com/ice-schedule-2/",
-      "source_id": "griffs_belknap-202610241730-sticks---pucks--west-rink-@gr-hockey-scraper",
-      "location": "30 Coldbrook St NE, Grand Rapids, MI"
-    },
-    {
-      "venue": "Griff's IceHouse (Belknap)",
-      "title": "Stick & Puck (West Rink)",
-      "start": "2026-10-25T16:00:00-04:00",
-      "end": "2026-10-25T16:50:00-04:00",
-      "url": "https://www.griffsicehouse.com/ice-schedule-2/",
-      "source_id": "griffs_belknap-202610251600-stick---puck--west-rink-@gr-hockey-scraper",
-      "location": "30 Coldbrook St NE, Grand Rapids, MI"
     }
   ],
   "griffs_georgetown": [
@@ -146,10 +128,10 @@
     {
       "venue": "Cedar Rock Sportsplex",
       "title": "Stick & Puck      13+",
-      "start": "2026-10-24T17:30:00-04:00",
-      "end": "2026-10-24T18:50:00-04:00",
+      "start": "2026-10-23T18:30:00-04:00",
+      "end": "2026-10-23T19:50:00-04:00",
       "url": "https://docs.google.com/spreadsheets/d/1rLaoKgECpzthOg7w9og17OZuN30uTvoiRX56jSo7DOA",
-      "source_id": "cedarrock-20261024-Stick & Puck      13",
+      "source_id": "cedarrock-20261023-Stick & Puck      13",
       "location": "4758 Cornfield Drive NE, Cedar Springs, MI 49319"
     }
   ],
