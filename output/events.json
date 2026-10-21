@@ -43,6 +43,15 @@
     {
       "venue": "Hudsonville Ice Arena",
       "title": "Stick & Puck (West Rink)",
+      "start": "2026-10-31T13:30:00-04:00",
+      "end": "2026-10-31T14:30:00-04:00",
+      "url": "https://schedule.bondsports.co/schedule/Hudsonville-Ice-Schedule",
+      "source_id": "griffs_georgetown-202610311330-stick---puck--west-rink-@gr-hockey-scraper",
+      "location": "8500 48th Ave, Hudsonville, MI"
+    },
+    {
+      "venue": "Hudsonville Ice Arena",
+      "title": "Stick & Puck (West Rink)",
       "start": "2026-11-04T15:00:00-05:00",
       "end": "2026-11-04T15:50:00-05:00",
       "url": "https://schedule.bondsports.co/schedule/Hudsonville-Ice-Schedule",
