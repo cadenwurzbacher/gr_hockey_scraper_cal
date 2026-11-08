@@ -74,14 +74,6 @@ SUMMARY:Stick & Puck (West Rink) @ Griff's IceHouse (Belknap)
 UID:griff's-icehouse-(be-202611081600-stick---puck--west-rink-@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://www.griffsicehouse.com/ice-schedule-2/
-DTEND:20261107T232000Z
-LOCATION:30 Coldbrook St NE\, Grand Rapids\, MI
-DTSTART:20261107T223000Z
-SUMMARY:Sticks & Pucks (West Rink) @ Griff's IceHouse (Belknap)
-UID:griff's-icehouse-(be-202611071730-sticks---pucks--west-rink-@gr-hockey-scraper
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://schedule.bondsports.co/schedule/Hudsonville-Ice-Schedule
 DTEND:20261125T205000Z
 LOCATION:8500 48th Ave\, Hudsonville\, MI
