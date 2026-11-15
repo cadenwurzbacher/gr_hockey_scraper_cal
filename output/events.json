@@ -4,56 +4,11 @@
   "griffs_belknap": [
     {
       "venue": "Griff's IceHouse (Belknap)",
-      "title": "Sticks & Pucks (West Rink)",
-      "start": "2026-11-14T17:30:00-05:00",
-      "end": "2026-11-14T18:30:00-05:00",
-      "url": "https://www.griffsicehouse.com/ice-schedule-2/",
-      "source_id": "griffs_belknap-202611141730-sticks---pucks--west-rink-@gr-hockey-scraper",
-      "location": "30 Coldbrook St NE, Grand Rapids, MI"
-    },
-    {
-      "venue": "Griff's IceHouse (Belknap)",
       "title": "Stick & Puck (West Rink)",
       "start": "2026-11-15T16:00:00-05:00",
       "end": "2026-11-15T16:50:00-05:00",
       "url": "https://www.griffsicehouse.com/ice-schedule-2/",
       "source_id": "griffs_belknap-202611151600-stick---puck--west-rink-@gr-hockey-scraper",
-      "location": "30 Coldbrook St NE, Grand Rapids, MI"
-    },
-    {
-      "venue": "Griff's IceHouse (Belknap)",
-      "title": "Stick & Puck (West Rink)",
-      "start": "2026-11-22T16:00:00-05:00",
-      "end": "2026-11-22T17:00:00-05:00",
-      "url": "https://www.griffsicehouse.com/ice-schedule-2/",
-      "source_id": "griffs_belknap-202611221600-stick---puck--west-rink-@gr-hockey-scraper",
-      "location": "30 Coldbrook St NE, Grand Rapids, MI"
-    },
-    {
-      "venue": "Griff's IceHouse (Belknap)",
-      "title": "Black Friday Sticks and Pucks (West Rink)",
-      "start": "2026-11-27T10:00:00-05:00",
-      "end": "2026-11-27T11:00:00-05:00",
-      "url": "https://www.griffsicehouse.com/ice-schedule-2/",
-      "source_id": "griffs_belknap-202611271000-black-friday-sticks-and-pucks--west-rink@gr-hockey-scraper",
-      "location": "30 Coldbrook St NE, Grand Rapids, MI"
-    },
-    {
-      "venue": "Griff's IceHouse (Belknap)",
-      "title": "Stick & Puck (West Rink)",
-      "start": "2026-11-29T16:00:00-05:00",
-      "end": "2026-11-29T16:50:00-05:00",
-      "url": "https://www.griffsicehouse.com/ice-schedule-2/",
-      "source_id": "griffs_belknap-202611291600-stick---puck--west-rink-@gr-hockey-scraper",
-      "location": "30 Coldbrook St NE, Grand Rapids, MI"
-    },
-    {
-      "venue": "Griff's IceHouse (Belknap)",
-      "title": "Stick & Puck (West Rink)",
-      "start": "2026-12-06T16:00:00-05:00",
-      "end": "2026-12-06T16:50:00-05:00",
-      "url": "https://www.griffsicehouse.com/ice-schedule-2/",
-      "source_id": "griffs_belknap-202612061600-stick---puck--west-rink-@gr-hockey-scraper",
       "location": "30 Coldbrook St NE, Grand Rapids, MI"
     }
   ],
@@ -124,54 +79,7 @@
   ],
   "southside": [],
   "eagles": [],
-  "cedar_rock": [
-    {
-      "venue": "Cedar Rock Sportsplex",
-      "title": "Stick & Puck      13+",
-      "start": "2026-11-14T11:00:00-05:00",
-      "end": "2026-11-14T12:20:00-05:00",
-      "url": "https://docs.google.com/spreadsheets/d/1rLaoKgECpzthOg7w9og17OZuN30uTvoiRX56jSo7DOA",
-      "source_id": "cedarrock-20261114-Stick & Puck      13",
-      "location": "4758 Cornfield Drive NE, Cedar Springs, MI 49319"
-    }
-  ],
+  "cedar_rock": [],
   "holland": [],
-  "lakeshore": [
-    {
-      "venue": "Lakeshore Sports Centre",
-      "title": "All Ages Sticks and Pucks (North Rink)",
-      "start": "2026-11-14T15:15:00-05:00",
-      "end": "2026-11-14T16:45:00-05:00",
-      "url": "https://lakeshoresportscentre.net/",
-      "source_id": "lakeshore-202611141515-all-ages-sticks-and-pucks--north-rink-@gr-hockey-scraper",
-      "location": "4470 Airline Road, Muskegon, MI 49444"
-    },
-    {
-      "venue": "Lakeshore Sports Centre",
-      "title": "All Ages Sticks and Pucks (North Rink)",
-      "start": "2026-11-22T13:45:00-05:00",
-      "end": "2026-11-22T15:05:00-05:00",
-      "url": "https://lakeshoresportscentre.net/",
-      "source_id": "lakeshore-202611221345-all-ages-sticks-and-pucks--north-rink-@gr-hockey-scraper",
-      "location": "4470 Airline Road, Muskegon, MI 49444"
-    },
-    {
-      "venue": "Lakeshore Sports Centre",
-      "title": "10 and Under Sticks and Pucks (Pickeball Court 2)",
-      "start": "2026-11-28T15:00:00-05:00",
-      "end": "2026-11-28T16:20:00-05:00",
-      "url": "https://lakeshoresportscentre.net/",
-      "source_id": "lakeshore-202611281500-10-and-under-sticks-and-pucks--pickeball@gr-hockey-scraper",
-      "location": "4470 Airline Road, Muskegon, MI 49444"
-    },
-    {
-      "venue": "Lakeshore Sports Centre",
-      "title": "10 and Under Sticks and Pucks (Pickeball Court 2)",
-      "start": "2026-11-28T15:00:00-05:00",
-      "end": "2026-11-28T16:20:00-05:00",
-      "url": "https://lakeshoresportscentre.net/",
-      "source_id": "lakeshore-202611281500-10-and-under-sticks-and-pucks--pickeball@gr-hockey-scraper",
-      "location": "4470 Airline Road, Muskegon, MI 49444"
-    }
-  ]
+  "lakeshore": []
 }
