@@ -3,19 +3,11 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:https://schedule.bondsports.co/schedule/Hudsonville-Ice-Schedule
-DTEND:20261118T205000Z
+DTEND:20261226T165000Z
 LOCATION:8500 48th Ave\, Hudsonville\, MI
-DTSTART:20261118T200000Z
-SUMMARY:Stick & Puck (West Rink) @ Hudsonville Ice Arena
-UID:hudsonville-ice-aren-202611181500-stick---puck--west-rink-@gr-hockey-scraper
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://www.griffsicehouse.com/ice-schedule-2/
-DTEND:20261206T215000Z
-LOCATION:30 Coldbrook St NE\, Grand Rapids\, MI
-DTSTART:20261206T210000Z
-SUMMARY:Stick & Puck (West Rink) @ Griff's IceHouse (Belknap)
-UID:griff's-icehouse-(be-202612061600-stick---puck--west-rink-@gr-hockey-scraper
+DTSTART:20261226T160000Z
+SUMMARY:Stick & Puck (East Rink) @ Hudsonville Ice Arena
+UID:hudsonville-ice-aren-202612261100-stick---puck--east-rink-@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://schedule.bondsports.co/schedule/Hudsonville-Ice-Schedule
@@ -74,12 +66,12 @@ SUMMARY:Stick & Puck (West Rink) @ Griff's IceHouse (Belknap)
 UID:griff's-icehouse-(be-202611221600-stick---puck--west-rink-@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://www.griffsicehouse.com/ice-schedule-2/
-DTEND:20261129T215000Z
-LOCATION:30 Coldbrook St NE\, Grand Rapids\, MI
-DTSTART:20261129T210000Z
-SUMMARY:Stick & Puck (West Rink) @ Griff's IceHouse (Belknap)
-UID:griff's-icehouse-(be-202611291600-stick---puck--west-rink-@gr-hockey-scraper
+DESCRIPTION:https://schedule.bondsports.co/schedule/Hudsonville-Ice-Schedule
+DTEND:20261202T205000Z
+LOCATION:8500 48th Ave\, Hudsonville\, MI
+DTSTART:20261202T200000Z
+SUMMARY:Stick & Puck (West Rink) @ Hudsonville Ice Arena
+UID:hudsonville-ice-aren-202612021500-stick---puck--west-rink-@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://schedule.bondsports.co/schedule/Hudsonville-Ice-Schedule
@@ -91,14 +83,6 @@ UID:hudsonville-ice-aren-202611271600-stick---puck--east-rink-@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://schedule.bondsports.co/schedule/Hudsonville-Ice-Schedule
-DTEND:20261202T205000Z
-LOCATION:8500 48th Ave\, Hudsonville\, MI
-DTSTART:20261202T200000Z
-SUMMARY:Stick & Puck (West Rink) @ Hudsonville Ice Arena
-UID:hudsonville-ice-aren-202612021500-stick---puck--west-rink-@gr-hockey-scraper
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://schedule.bondsports.co/schedule/Hudsonville-Ice-Schedule
 DTEND:20261209T205000Z
 LOCATION:8500 48th Ave\, Hudsonville\, MI
 DTSTART:20261209T200000Z
@@ -106,12 +90,12 @@ SUMMARY:Stick & Puck (West Rink) @ Hudsonville Ice Arena
 UID:hudsonville-ice-aren-202612091500-stick---puck--west-rink-@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://lakeshoresportscentre.net/
-DTEND:20261128T212000Z
-LOCATION:4470 Airline Road\, Muskegon\, MI 49444
-DTSTART:20261128T200000Z
-SUMMARY:10 and Under Sticks and Pucks (Pickeball Court 2) @ Lakeshore Sports Centre
-UID:lakeshore-sports-cen-202611281500-10-and-under-sticks-and-pucks--pickeball@gr-hockey-scraper
+DESCRIPTION:https://schedule.bondsports.co/schedule/Hudsonville-Ice-Schedule
+DTEND:20261227T185000Z
+LOCATION:8500 48th Ave\, Hudsonville\, MI
+DTSTART:20261227T180000Z
+SUMMARY:Stick & Puck (East Rink) @ Hudsonville Ice Arena
+UID:hudsonville-ice-aren-202612271300-stick---puck--east-rink-@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://docs.google.com/spreadsheets/d/1rLaoKgECpzthOg7w9og17OZuN30uTvoiRX56jSo7DOA
@@ -122,27 +106,11 @@ SUMMARY:Stick & Puck      13+ @ Cedar Rock Sportsplex
 UID:cedar-rock-sportsple-202611210930-stick---puck------13-@gr-hockey-scraper
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://www.griffsicehouse.com/ice-schedule-2/
-DTEND:20261127T160000Z
-LOCATION:30 Coldbrook St NE\, Grand Rapids\, MI
-DTSTART:20261127T150000Z
-SUMMARY:Black Friday Sticks and Pucks (West Rink) @ Griff's IceHouse (Belknap)
-UID:griff's-icehouse-(be-202611271000-black-friday-sticks-and-pucks--west-rink@gr-hockey-scraper
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://schedule.bondsports.co/schedule/Hudsonville-Ice-Schedule
 DTEND:20261125T205000Z
 LOCATION:8500 48th Ave\, Hudsonville\, MI
 DTSTART:20261125T200000Z
 SUMMARY:Stick & Puck (West Rink) @ Hudsonville Ice Arena
 UID:hudsonville-ice-aren-202611251500-stick---puck--west-rink-@gr-hockey-scraper
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://www.griffsicehouse.com/ice-schedule-2/
-DTEND:20261213T215000Z
-LOCATION:30 Coldbrook St NE\, Grand Rapids\, MI
-DTSTART:20261213T210000Z
-SUMMARY:Stick & Puck (West Rink) @ Griff's IceHouse (Belknap)
-UID:griff's-icehouse-(be-202612131600-stick---puck--west-rink-@gr-hockey-scraper
 END:VEVENT
 END:VCALENDAR
